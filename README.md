@@ -85,16 +85,16 @@ Scientific Reports, Transportation.
 **Lecture** on _Battery-electric Vehicle Adoption_ at Frontiers in Energy Research, Organiser: Energy Science Centre, ETH Zurich _(2021)_<br>
 **Lecture** on _Sustainable Development_ at “Political Economy”. Organisation jointly with: V. Koubi, D. Kolcava, ETH Zurich _(2021)_<br>
 **Supervision** of _master thesis_ on “The role of charging infrastructure to the mainstream adoption of battery electric vehicles (BEVs)”, ETH Zurich _(2020)_<br>
-**Lecture** on _Experimental Political Science_ at “Proseminar 2”. Organisers: D. Presberger, F. Quoß, ETH Zurich _(2020)_<br>
+**Lecture** on _Experimental Political Science_ at Proseminar 2. Organisers: D. Presberger, F. Quoß, ETH Zurich _(2020)_<br>
 **Tutorial** _Methoden der Empirischen Sozialforschung_ (Empirical social science methods), lecture by Dr. L. Rudolph, ETH Zurich _(2018&2019)_<br>
 **Seminar** instructor _IDEA League Challenge: The mobility challenge_, Organize: Prof. Dr. T. Bernauer, ETH Zurich _(2018&2019)_<br>
 
 ## 💸 Grants
-**Travel Grant** [UniBE Short Travel Grants for (Post)Docs](https://www.unibe.ch/studies/programs/doctorate/doctoral_degree/funding_program_unibe_short_travel_grants_for_postdocs/index_eng.html) funding for research stay at LSE, (CHF 7,000), 2023<br>
-**Travel Grant** from Swiss Academy of Social Sciences and Humanities [(SAGW)](https://www.sagw.ch/sagw/) for a conference visit, (CHF 500), 2023 <br>
-**Project Grant** Swiss Academy of Social Sciences and Humanities [(SAGW)](https://www.sagw.ch/sagw/), project funding for Swiss Social Science & Humanities Energy Research Group, (CHF 7,000), 2022<br>
-**Project Grant**	Swiss Office of Energy Swiss Federal Office of Energy, [(SFOE)](https://www.bfe.admin.ch/), project funding for Swiss Social Science & Humanities Energy Research Group, (CHF 5,000), 2022<br>
-**Project Grant** [Promotion Fund](https://www.unibe.ch/research/promotion_of_research/uni_internal_grants/promotion_fund/index_eng.html)(funding for networking activities of intermediate statt members) at University of Bern, project funding for Swiss Social Science and Humanities Energy Research Group Workshops (CHF 5,000) jointly received with Rebeka Sträter and Jonas Schmid
+**Travel Grant** [UniBE Short Travel Grants for (Post)Docs](https://www.unibe.ch/studies/programs/doctorate/doctoral_degree/funding_program_unibe_short_travel_grants_for_postdocs/index_eng.html) funding for research stay at LSE, CHF 7,000, 2023<br>
+**Travel Grant** from Swiss Academy of Social Sciences and Humanities [(SAGW)](https://www.sagw.ch/sagw/) for a conference visit, CHF 500, 2023 <br>
+**Project Grant** Swiss Academy of Social Sciences and Humanities [(SAGW)](https://www.sagw.ch/sagw/), project funding for Swiss Social Science & Humanities Energy Research Group, CHF 7,000, 2022<br>
+**Project Grant**	Swiss Office of Energy Swiss Federal Office of Energy, [(SFOE)](https://www.bfe.admin.ch/), project funding for Swiss Social Science & Humanities Energy Research Group, CHF 5,000, 2022<br>
+**Project Grant** [Promotion Fund](https://www.unibe.ch/research/promotion_of_research/uni_internal_grants/promotion_fund/index_eng.html) (funding for networking activities of intermediate statt members) at University of Bern, project funding for Swiss Social Science and Humanities Energy Research Group Workshops, CHF 5,000, jointly received with Rebeka Sträter and Jonas Schmid
 
 
 
@@ -117,5 +117,5 @@ _2011-2012_	Student representative, Senate, LMU Munich. <br>
 Some knowledge: 🇸🇪🇪🇸🇨🇭
 <br><br>
 ___
-This CV is inspired by [Carolstan](https://carolstran.github.io/cv/).
+This CV is inspired by [Carolstan](https://github.com/carolstran).
 
