@@ -2,7 +2,7 @@
 
 ## 🧑🏼‍💻 Current Position: 
 
-**Visitng Fellow London | School of Economics and Political Science** @ [Social Policy Department](https://www.lse.ac.uk/social-policy/) <br> _(09/2023-12/2023)_ <br>
+**Visiting Fellow London | School of Economics and Political Science** @ [Social Policy Department](https://www.lse.ac.uk/social-policy/) <br> _(09/2023-12/2023)_ <br>
 Working on urban experiences with environmental polcies targeted at transport emisions, such as Low Traffic Neighborhoods and Ulra-Low Emission Zones.
 <br>
 
