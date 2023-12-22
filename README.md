@@ -2,14 +2,14 @@
 
 ## 🧑🏼‍💻 Current Position: 
 
-**Visiting Fellow London | School of Economics and Political Science** @ [Social Policy Department](https://www.lse.ac.uk/social-policy/) <br> _(09/2023-12/2023)_ <br>
-Working on urban experiences with environmental polcies targeted at transport emisions, such as Low Traffic Neighborhoods and Ulra-Low Emission Zones.
-<br>
-
 **Post-Doc | University of Bern** @ [Institute of Politcial Science](https://www.ipw.unibe.ch/) & [Oeschger Centre for Climate Change Research](https://www.oeschger.unibe.ch/) <br> _(10/2021 to Present)_ <br>
 Working in the projects [SWEET EDGE](https://www.sweet-edge.ch/en/home/) (Enabling Decentralized renewable GEneration in the Swiss cities, midlands, and the Alps) focussing on adoption behaviour with respect to renewable energy technologies, mostly solar PV, and [SURE](https://sweet-sure.ch/) (SUstainable and Resilient Energy for Switzerland) with focus on future climate and energy policy, both funded by Swiss Federal Office of Energy, [SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/funding-program-sweet.html/). 
 <br><br>
-## 🚗 Previous Academic Position: 
+## 🚗 Previous Academic Positions: 
+
+**Visiting Fellow London | School of Economics and Political Science** @ [Social Policy Department](https://www.lse.ac.uk/social-policy/) <br> _(09/2023-12/2023)_ <br>
+Working on urban experiences with environmental policies targeted at transport emisions, such as Low Traffic Neighborhoods (LTNs) and Ulra-Low Emission Zones (ULEZ).
+<br>
 
 **Researcher & PhD Candidate | ETH Zurich** @ [International Political Economy and Environmental Politics](https://ib.ethz.ch/) & [Institute of Science, Technology and Policy](https://istp.ethz.ch/) [(Swiss Mobility Lab)](https://istp.ethz.ch/research/mobility.html) <br>
 _(10/2017-09/2021)_	<br>
@@ -87,6 +87,7 @@ Scientific Reports, Transportation.
 
 ## 💸 Grants
 **Travel Grant** [UniBE Short Travel Grants for (Post)Docs](https://www.unibe.ch/studies/programs/doctorate/doctoral_degree/funding_program_unibe_short_travel_grants_for_postdocs/index_eng.html) funding for research stay at LSE, CHF 7,000, 2023<br>
+**Travel Grant** from Berne University Research Foundation for research stay at LSE, CHF 3,398, 2023<br>
 **Travel Grant** from Swiss Academy of Social Sciences and Humanities [(SAGW)](https://www.sagw.ch/sagw/) for a conference visit, CHF 500, 2023 <br>
 **Project Grant** Swiss Academy of Social Sciences and Humanities [(SAGW)](https://www.sagw.ch/sagw/), project funding for Swiss Social Science & Humanities Energy Research Group, CHF 7,000, 2022<br>
 **Project Grant**	Swiss Office of Energy Swiss Federal Office of Energy, [(SFOE)](https://www.bfe.admin.ch/), project funding for Swiss Social Science & Humanities Energy Research Group, CHF 5,000, 2022<br>
