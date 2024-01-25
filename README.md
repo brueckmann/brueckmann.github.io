@@ -38,7 +38,7 @@ Thesis: _Widowhood, Medical Expenditures, and Health Care Utilization among the 
 
 Brückmann, G. & Bernauer, T. (2023). _An experimental analysis of consumer preferences towards public charging infrastructure_. Transportation Research Part D: Transport and Environment, 116, 103626. https://doi.org/10.1016/j.trd.2023.103626 <br>
 
-Brückmann, G., Berger, s., Caviola, H., Hahnel, U., Piana, V., Sahakian M., Stadelmann-Steffen, I. & the Swiss Social Science and Humanities Energy Research Group (2023). _Towards more impactful energy research: The salient role of social sciences and humanities_. PLOS Climate, 2(2), https://doi.org/10.1371/journal.pclm.0000132<br>
+Brückmann, G., Berger, S., Caviola, H., Hahnel, U., Piana, V., Sahakian M., Stadelmann-Steffen, I. & the Swiss Social Science and Humanities Energy Research Group (2023). _Towards more impactful energy research: The salient role of social sciences and humanities_. PLOS Climate, 2(2), https://doi.org/10.1371/journal.pclm.0000132<br>
 •	Covered in [energeia](https://energeiaplus.com/2023/02/22/krisen-sprache-gerechtigkeit-was-hat-das-mit-energieforschung-zu-tun/).<br>
 
 Brückmann, G. (2022). _The effects of policies providing information and trialling on the knowledge about and the intention to adopt new energy technologies_. Energy Policy, 167, https://doi.org/10.1016/j.enpol.2022.113047<br>
