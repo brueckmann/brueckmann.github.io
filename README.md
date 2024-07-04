@@ -2,13 +2,13 @@
 
 ## 🧑🏼‍💻 Current Position: 
 
-**Post-Doc | University of Bern** @ [Institute of Politcial Science](https://www.ipw.unibe.ch/) & [Oeschger Centre for Climate Change Research](https://www.oeschger.unibe.ch/) <br> _(10/2021 to Present)_ <br>
-Working in the projects [SWEET EDGE](https://www.sweet-edge.ch/en/home/) (Enabling Decentralized renewable GEneration in the Swiss cities, midlands, and the Alps) focussing on adoption behaviour with respect to renewable energy technologies, mostly solar PV, and [SURE](https://sweet-sure.ch/) (SUstainable and Resilient Energy for Switzerland) with focus on future climate and energy policy, both funded by Swiss Federal Office of Energy, [SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/funding-program-sweet.html/). 
+**Post-Doc | University of Bern** @ [Institute of Political  Science](https://www.ipw.unibe.ch/) & [Oeschger Centre for Climate Change Research](https://www.oeschger.unibe.ch/) <br> _(10/2021 to Present)_ <br>
+Working on the projects [SWEET EDGE](https://www.sweet-edge.ch/en/home/) (Enabling Decentralized renewable GEneration in the Swiss cities, midlands, and the Alps) focussing on adoption behaviour with respect to renewable energy technologies, mostly solar PV, and [SURE](https://sweet-sure.ch/) (SUstainable and Resilient Energy for Switzerland) with focus on future climate and energy policy, both funded by Swiss Federal Office of Energy, [SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/funding-program-sweet.html/). 
 <br><br>
 ## 🚗 Previous Academic Positions: 
 
 **Visiting Fellow London | School of Economics and Political Science** @ [Social Policy Department](https://www.lse.ac.uk/social-policy/) <br> _(09/2023-12/2023)_ <br>
-Working on urban experiences with environmental policies targeted at transport emisions, such as Low Traffic Neighborhoods (LTNs) and Ulra-Low Emission Zones (ULEZ).
+Working on urban experiences with environmental policies targeted at transport emissions, such as Low Traffic Neighbourhoods  (LTNs) and Ultra-Low Emission Zones (ULEZ).
 <br>
 
 **Researcher & PhD Candidate | ETH Zurich** @ [International Political Economy and Environmental Politics](https://ib.ethz.ch/) & [Institute of Science, Technology and Policy](https://istp.ethz.ch/) [(Swiss Mobility Lab)](https://istp.ethz.ch/research/mobility.html) <br>
@@ -17,7 +17,7 @@ Projects included e.g., [Fostering the Transition Towards More Fuel-Efficient Ca
 <br><br>
 ## 🎓 Completed Education
 
-**Dr. sc. ETH**, Doctoral thesis entitled _Electric vehicle adoption and acceptance_. <br>
+**Dr. sc. ETH**, Doctoral thesis entitled [_Electric vehicle adoption and acceptance_](https://www.research-collection.ethz.ch/handle/20.500.11850/512355). <br>
 [ETH Zurich](https://ethz.ch/en.html), Switzerland. <br>
 Supervisor: Thomas Bernauer Committee members: Isabelle Stadelmann-Steffen, Kay W. Axhausen. _(2017– 2021)_	
 <br>
@@ -72,10 +72,10 @@ Scientific Reports, Transportation.
 #### Own semester-long teaching
 **Lecture**  _The Art of Causal Inference_, University of Bern _(Spring 2023)_ <br>
 **Master Seminar** _Energy and Mobility Policies for Decarbonisation_, University of Bern _(Fall 2022&2023)_ <br>
-**Tutorial** _Mathematical Methods in Economics_, accompanaying lecture by Prof. H. Rainer, Ph.D., LMU Munich _(2012)_
+**Tutorial** _Mathematical Methods in Economics_, accompanying  lecture by Prof. H. Rainer, Ph.D., LMU Munich _(2012)_
 
 #### Co-teaching, shorter teaching & thesis supervision
-**Lectures** _Political Economy of Climate Change_ , Organiser: Prof. Dr. V. Koubi, University of Bern _(Spring 2023)_<br> 
+**Lectures** _Political Economy of Climate Change_, Organiser: Prof. Dr. V. Koubi, University of Bern _(Spring 2023)_<br> 
 **Lecture** _Climate Change Policy and Electric Vehicles in Europe_, Organiser: Climate Physics seminar, Weber State University, Ogden, Utah. _(Nov 2022)_<br>
 **Supervision** of _master thesis_ on "Electric charging behaviour – Understanding the trilemma of willingness to pay, the value of time and source of energy in the context of public charging stations in the German part of Switzerland", ETH Zürich _(Nov 2021)_<br>
 **Lecture** on _Battery-electric Vehicle Adoption_ at Frontiers in Energy Research, Organiser: Energy Science Centre, ETH Zurich _(2021)_<br>
@@ -86,6 +86,7 @@ Scientific Reports, Transportation.
 **Seminar** instructor _IDEA League Challenge: The mobility challenge_, Organize: Prof. Dr. T. Bernauer, ETH Zurich _(2018&2019)_<br>
 
 ## 💸 Grants
+**In-kind Grant** [University of Bern eCoaches digital skills in teaching program](https://www.ecoach.unibe.ch) teaching assistant for Master's seminar in fall semester 2024 
 **Travel Grant** [UniBE Short Travel Grants for (Post)Docs](https://www.unibe.ch/studies/programs/doctorate/doctoral_degree/funding_program_unibe_short_travel_grants_for_postdocs/index_eng.html) funding for research stay at LSE, CHF 7,000, 2023<br>
 **Travel Grant** from Berne University Research Foundation for research stay at LSE, CHF 3,398, 2023<br>
 **Travel Grant** from Swiss Academy of Social Sciences and Humanities [(SAGW)](https://www.sagw.ch/sagw/) for a conference visit, CHF 500, 2023 <br>
@@ -113,6 +114,10 @@ _2011-2012_	Student representative, Senate, LMU Munich. <br>
 🇫🇷 **French**: B2 <br>
 Some knowledge: 🇸🇪🇪🇸🇨🇭
 <br><br>
+
+<script src="https://climateclock.world/widget-v2.js" async></script>
+<climate-clock />
+
 ___
 This CV is inspired by [Carolstan](https://github.com/carolstran).
 
