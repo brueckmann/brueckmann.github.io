@@ -56,7 +56,8 @@ Brückmann, G. & Bernauer, T. (2020). _What drives public support for policies t
 •	Covered in [Yale Environmental Review](https://environment-review.yale.edu/pulling-public-embrace-adoption-electric-vehicles). Explained in [ISTP4Public video](https://twitter.com/istp_eth/status/1271004682979336193?s=20). <br><br>
 
 ## 🧑🏼‍💼 Conference and Academic Seminar Presentations
-* _2023_: SPSA (Swiss Political Science Association Annual Congress), EPCS (European Public Choice Society), EPSA (European Political Science Association Annual Congress), Swiss Social Science and Humanities Energy Workshop (as organizer and presenter), Dreiländertagung (D-A-CH-Congress) (accepted as presenter and panel organizer), LSE Social Policy seminar <br>
+* _2024_: SPSA (Swiss Political Science Association Annual Congress), APSA (American Political Science Association) Virtual Research Meeting, Swiss Social Science and Humanities Energy Workshop, EPSA (European Political Science Association Annual Congress), E4EE (Workshop on Experimental Economics for the Environment) <br>
+* _2023_: SPSA , EPCS (European Public Choice Society), EPSA, Swiss Social Science and Humanities Energy Workshop (as organizer and presenter), Dreiländertagung (D-A-CH-Congress) (accepted as presenter and panel organizer), LSE Social Policy seminar <br>
 * _2022_: SPSA, PolMeth Europe, Swiss Social Science and Humanities Energy Workshops (lead organiser), EPSA, EPG Online  <br>
 * _2021_: SPSA, OSWEET (Online Summer Workshop in Environment, Energy, and Transportation), Environment, Transport, and Sustainability (EnTS) Research Group Seminar University of Bath <br>
 * _2020_: EMEE, SPSA (accepted, not participated due to injury.), PSA ECN, 3-Länder International Political Economy conference 2020. (Paper accepted, conference cancelled.)
@@ -69,7 +70,7 @@ Applied Economics, Climate Policy, Energy Economics, Energy Research & Social Sc
 ## 🧑🏼‍🏫 Teaching Experience
 #### Own semester-long teaching
 **Lecture**  _The Art of Causal Inference_, University of Bern _(Spring 2023)_ <br>
-**Master Seminar** _Energy and Mobility Policies for Decarbonisation_, University of Bern _(Fall 2022&2023)_ <br>
+**Master Seminar** _Energy and Mobility Policies for Decarbonisation_, University of Bern _(Fall 2022,2023&2024)_ <br>
 **Tutorial** _Mathematical Methods in Economics_, accompanying  lecture by Prof. H. Rainer, Ph.D., LMU Munich _(2012)_
 
 #### Co-teaching, shorter teaching & thesis supervision
