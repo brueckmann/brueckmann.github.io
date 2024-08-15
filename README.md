@@ -74,6 +74,7 @@ Applied Economics, Climate Policy, Energy Economics, Energy Research & Social Sc
 **Tutorial** _Mathematical Methods in Economics_, accompanying  lecture by Prof. H. Rainer, Ph.D., LMU Munich _(2012)_
 
 #### Co-teaching, shorter teaching & thesis supervision
+**Lectures** _Renewable Energy Acceptance using Causality and Data Science_ Organiser: Prof. Dr. Philipp Schütz, Domain Experience: Data analytics for energy systems and IOT, Lucerne University of Applied Sciences and Arts. _(Spring 2024)_<br> 
 **Lectures** _Political Economy of Climate Change_, Organiser: Prof. Dr. V. Koubi, University of Bern _(Spring 2023)_<br> 
 **Lecture** _Climate Change Policy and Electric Vehicles in Europe_, Organiser: Climate Physics seminar, Weber State University, Ogden, Utah. _(Nov 2022)_<br>
 **Supervision** of _master thesis_ on "Electric charging behaviour – Understanding the trilemma of willingness to pay, the value of time and source of energy in the context of public charging stations in the German part of Switzerland", ETH Zürich _(Nov 2021)_<br>
