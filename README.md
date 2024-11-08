@@ -3,7 +3,7 @@
 ## 🧑🏼‍💻 Current Position: 
 
 **Post-Doc | University of Bern** @ [Institute of Political  Science](https://www.ipw.unibe.ch/) & [Oeschger Centre for Climate Change Research](https://www.oeschger.unibe.ch/) <br> _(10/2021 to Present)_ <br>
-Working on the projects [SWEET EDGE](https://www.sweet-edge.ch/en/home/) (Enabling Decentralized renewable GEneration in the Swiss cities, midlands, and the Alps) focussing on adoption behaviour with respect to renewable energy technologies, mostly solar PV, and [SURE](https://sweet-sure.ch/) (SUstainable and Resilient Energy for Switzerland) with focus on future climate and energy policy, both funded by Swiss Federal Office of Energy, [SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/funding-program-sweet.html/). Organisation of [Swiss Social Science & Humanities Energy Research Group](https://www.ipw.unibe.ch/research/swiss_social_sciences__humanities_energy_research_group/index_eng.html/)
+Working on the projects [SWEET EDGE](https://www.sweet-edge.ch/en/home/) (Enabling Decentralized renewable GEneration in the Swiss cities, midlands, and the Alps) focussing on solar PV policy acceptance, and [SURE](https://sweet-sure.ch/) (SUstainable and Resilient Energy for Switzerland) with focus on future climate and energy policy, both funded by Swiss Federal Office of Energy, [SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/funding-program-sweet.html/). [Teaching](#own-semester-long-teaching) and organisation of the [Swiss Social Science & Humanities Energy Research Group](https://t1p.de/SSHEnergy). 
 <br><br>
 ## 🚗 Previous Academic Positions: 
 
@@ -34,6 +34,9 @@ Thesis: _Widowhood, Medical Expenditures, and Health Care Utilization among the 
 **Exchange Semester**, [Stockholm University](https://www.su.se/english/), Sweden. _(2012 - 2013)_
 <br><br>
 ## 📑 Peer-reviewed Publications
+
+Brückmann, G., Ruprecht, S., & Stadelmann-Steffen, I. (2024). _Solar for tenants: Survey evidence on design and framing of citizen-financed photovoltaic projects in Switzerland_.
+Energy Research & Social Science, 118, 103819. https://doi.org/10.1016/j.erss.2024.103819
 
 Brückmann, G. & Bernauer, T. (2023). _An experimental analysis of consumer preferences towards public charging infrastructure_. Transportation Research Part D: Transport and Environment, 116, 103626. https://doi.org/10.1016/j.trd.2023.103626 <br>
 
@@ -69,7 +72,7 @@ Applied Economics, Climate Policy, Energy Economics, Energy Policy, Energy Resea
 
 ## 🧑🏼‍🏫 Teaching Experience
 #### Own semester-long teaching
-**Lecture**  _The Art of Causal Inference_, University of Bern _(Spring 2023)_ [Syllabus](https://github.com/brueckmann/KKI_Syllabus/blob/main/Syllabus_KunstKausaleInferenz_FS24_Gbrueckmann.pdf)<br>
+**Lecture**  _The Art of Causal Inference_, University of Bern _(Spring 2024)_ [Syllabus online](https://github.com/brueckmann/KKI_Syllabus/blob/main/Syllabus_KunstKausaleInferenz_FS2024_GBrueckmann.pdf).<br>
 **Master Seminar** _Energy and Mobility Policies for Decarbonisation_, University of Bern _(Fall 2022,2023&2024)_ <br>
 **Tutorial** _Mathematical Methods in Economics_, accompanying  lecture by Prof. H. Rainer, Ph.D., LMU Munich _(2012)_
 
