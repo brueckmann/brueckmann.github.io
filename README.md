@@ -65,11 +65,11 @@ Brückmann, G. & Bernauer, T. (2020). _What drives public support for policies t
 
 
 ## 🙇🏼 Peer-Review for Scientific Journals 
-Applied Economics, Climate Policy, Energy Economics, Energy Research & Social Science, Environmental Research Communications, Environmental Research Letters, Environmental Sciences Europe, European Journal of Political Research, Global Sustainability, Joule, Nature Energy, Patterns, Scientific Reports, The Journal of Politics, Transportation.
+Applied Economics, Climate Policy, Energy Economics, Energy Policy, Energy Research & Social Science, Environmental Research Communications, Environmental Research Letters, Environmental Sciences Europe, European Journal of Political Research, Global Sustainability, Joule, Nature Energy, Patterns, PLOS Climate, Scientific Reports, The Journal of Politics, Transportation.
 
 ## 🧑🏼‍🏫 Teaching Experience
 #### Own semester-long teaching
-**Lecture**  _The Art of Causal Inference_, University of Bern _(Spring 2023)_ <br>
+**Lecture**  _The Art of Causal Inference_, University of Bern _(Spring 2023)_ [Syllabus](https://github.com/brueckmann/KKI_Syllabus/blob/main/Syllabus_KunstKausaleInferenz_FS24_Gbrueckmann.pdf)<br>
 **Master Seminar** _Energy and Mobility Policies for Decarbonisation_, University of Bern _(Fall 2022,2023&2024)_ <br>
 **Tutorial** _Mathematical Methods in Economics_, accompanying  lecture by Prof. H. Rainer, Ph.D., LMU Munich _(2012)_
 
