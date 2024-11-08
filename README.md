@@ -3,7 +3,7 @@
 ## 🧑🏼‍💻 Current Position: 
 
 **Post-Doc | University of Bern** @ [Institute of Political  Science](https://www.ipw.unibe.ch/) & [Oeschger Centre for Climate Change Research](https://www.oeschger.unibe.ch/) <br> _(10/2021 to Present)_ <br>
-Working on the projects [SWEET EDGE](https://www.sweet-edge.ch/en/home/) (Enabling Decentralized renewable GEneration in the Swiss cities, midlands, and the Alps) focussing on adoption behaviour with respect to renewable energy technologies, mostly solar PV, and [SURE](https://sweet-sure.ch/) (SUstainable and Resilient Energy for Switzerland) with focus on future climate and energy policy, both funded by Swiss Federal Office of Energy, [SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/funding-program-sweet.html/). Organisation of [Swiss Social Science & Humanities Energy Research Group](https://www.ipw.unibe.ch/research/swiss_social_sciences__humanities_energy_research_group/index_eng.html/)
+Working on the projects [SWEET EDGE](https://www.sweet-edge.ch/en/home/) (Enabling Decentralized renewable GEneration in the Swiss cities, midlands, and the Alps) focussing on solar PV policy acceptance, and [SURE](https://sweet-sure.ch/) (SUstainable and Resilient Energy for Switzerland) with focus on future climate and energy policy, both funded by Swiss Federal Office of Energy, [SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/funding-program-sweet.html/). [Teaching](#own-semester-long-teaching) and organisation of the [Swiss Social Science & Humanities Energy Research Group](https://t1p.de/SSHEnergy). 
 <br><br>
 ## 🚗 Previous Academic Positions: 
 
