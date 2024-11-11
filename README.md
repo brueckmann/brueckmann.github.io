@@ -121,4 +121,3 @@ Some knowledge: 🇸🇪🇪🇸🇨🇭
 
 ___
 This CV is inspired by [Carolstan](https://github.com/carolstran).
-
