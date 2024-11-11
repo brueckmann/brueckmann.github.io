@@ -35,8 +35,7 @@ Thesis: _Widowhood, Medical Expenditures, and Health Care Utilization among the 
 <br><br>
 ## 📑 Peer-reviewed Publications
 
-Brückmann, G., Ruprecht, S., & Stadelmann-Steffen, I. (2024). _Solar for tenants: Survey evidence on design and framing of citizen-financed photovoltaic projects in Switzerland_.
-Energy Research & Social Science, 118, 103819. https://doi.org/10.1016/j.erss.2024.103819
+Brückmann, G., Ruprecht, S., & Stadelmann-Steffen, I. (2024). _Solar for tenants: Survey evidence on design and framing of citizen-financed photovoltaic projects in Switzerland_. Energy Research & Social Science, 118, 103819. https://doi.org/10.1016/j.erss.2024.103819
 
 Brückmann, G. & Bernauer, T. (2023). _An experimental analysis of consumer preferences towards public charging infrastructure_. Transportation Research Part D: Transport and Environment, 116, 103626. https://doi.org/10.1016/j.trd.2023.103626 <br>
 
