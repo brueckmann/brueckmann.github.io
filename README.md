@@ -71,7 +71,7 @@ Applied Economics, Climate Policy, Energy Economics, Energy Policy, Energy Resea
 
 ## 🧑🏼‍🏫 Teaching Experience
 #### Own semester-long teaching
-**Lecture**  _The Art of Causal Inference_, University of Bern _(Spring 2024)_ [Syllabus online](https://github.com/brueckmann/KKI_Syllabus/blob/main/Syllabus_KunstKausaleInferenz_FS2024_GBrueckmann.pdf).<br>
+**Lecture**  _The Art of Causal Inference_, University of Bern _(Spring 2024)_ [Syllabus online](https://brueckmann.github.io/KKI_Syllabus/PDF_Syllabus_KKI_GBrueckmann.pdf).<br>
 **Master Seminar** _Energy and Mobility Policies for Decarbonisation_, University of Bern _(Fall 2022,2023&2024)_ <br>
 **Tutorial** _Mathematical Methods in Economics_, accompanying  lecture by Prof. H. Rainer, Ph.D., LMU Munich _(2012)_
 
