@@ -35,6 +35,8 @@ Thesis: _Widowhood, Medical Expenditures, and Health Care Utilization among the 
 <br><br>
 ## 📑 Peer-reviewed Publications
 
+Brückmann, G. (2025). _Public opinion on climate policies that reduce emissions abroad to reach domestic targets - a Swiss case study_. Current Research in Environmental Sustainability. (acceped)
+
 Brückmann, G., Ruprecht, S., & Stadelmann-Steffen, I. (2024). _Solar for tenants: Survey evidence on design and framing of citizen-financed photovoltaic projects in Switzerland_. Energy Research & Social Science, 118, 103819. https://doi.org/10.1016/j.erss.2024.103819
 
 Brückmann, G. & Bernauer, T. (2023). _An experimental analysis of consumer preferences towards public charging infrastructure_. Transportation Research Part D: Transport and Environment, 116, 103626. https://doi.org/10.1016/j.trd.2023.103626 <br>
@@ -58,7 +60,8 @@ Brückmann, G. & Bernauer, T. (2020). _What drives public support for policies t
 •	Covered in [Yale Environmental Review](https://environment-review.yale.edu/pulling-public-embrace-adoption-electric-vehicles). Explained in [ISTP4Public video](https://twitter.com/istp_eth/status/1271004682979336193?s=20). <br><br>
 
 ## 🧑🏼‍💼 Conference and Academic Seminar Presentations
-* _2024_: SPSA (Swiss Political Science Association Annual Congress), APSA (American Political Science Association) Virtual Research Meeting, Swiss Social Science and Humanities Energy Workshop, EPSA (European Political Science Association Annual Congress), E4EE (Workshop on Experimental Economics for the Environment) <br>
+* _2025_: SPSA (Swiss Political Science Association Annual Congress), Alp-Pop, MZES-DVPW Conference Methods of Political Science, Swiss Social Science and Humanities Energy Workshop <br>
+* _2024_: SPSA, APSA (American Political Science Association) Virtual Research Meeting, Swiss Social Science and Humanities Energy Workshop, EPSA (European Political Science Association Annual Congress), E4EE (Workshop on Experimental Economics for the Environment) <br>
 * _2023_: SPSA , EPCS (European Public Choice Society), EPSA, Swiss Social Science and Humanities Energy Workshop (as organizer and presenter), Dreiländertagung (D-A-CH-Congress) (presenter and panel organizer), LSE Social Policy seminar <br>
 * _2022_: SPSA, PolMeth Europe, Swiss Social Science and Humanities Energy Workshops (lead organiser), EPSA, EPG Online  <br>
 * _2021_: SPSA, OSWEET (Online Summer Workshop in Environment, Energy, and Transportation), Environment, Transport, and Sustainability (EnTS) Research Group Seminar University of Bath <br>
@@ -71,30 +74,31 @@ Applied Economics, Climate Policy, Energy Economics, Energy Policy, Energy Resea
 
 ## 🧑🏼‍🏫 Teaching Experience
 #### Own semester-long teaching
-**Lecture**  _The Art of Causal Inference_, University of Bern _(Spring 2024)_ [Syllabus online](https://brueckmann.github.io/KKI_Syllabus/PDF_Syllabus_KKI_GBrueckmann.pdf).<br>
-**Master Seminar** _Energy and Mobility Policies for Decarbonisation_, University of Bern _(Fall 2022,2023&2024)_ <br>
-**Tutorial** _Mathematical Methods in Economics_, accompanying  lecture by Prof. H. Rainer, Ph.D., LMU Munich _(2012)_
+* **Lecture**  _The Art of Causal Inference_, University of Bern _(Spring 2024)_ [Syllabus online](https://brueckmann.github.io/KKI_Syllabus/PDF_Syllabus_KKI_GBrueckmann.pdf).<br>
+* **Master Seminar** _Energy and Mobility Policies for Decarbonisation_, University of Bern _(Fall 2022,2023&2024)_ <br>
+* **Tutorial** _Mathematical Methods in Economics_, accompanying  lecture by Prof. H. Rainer, Ph.D., LMU Munich _(2012)_
 
 #### Co-teaching, shorter teaching & thesis supervision
-**Lectures** _Renewable Energy Acceptance using Causality and Data Science_ Organiser: Prof. Dr. Philipp Schütz, Domain Experience: Data analytics for energy systems and IOT, Lucerne University of Applied Sciences and Arts. _(Spring 2024)_<br> 
-**Lectures** _Political Economy of Climate Change_, Organiser: Prof. Dr. V. Koubi, University of Bern _(Spring 2023)_<br> 
-**Lecture** _Climate Change Policy and Electric Vehicles in Europe_, Organiser: Climate Physics seminar, Weber State University, Ogden, Utah. _(Nov 2022)_<br>
-**Supervision** of _master thesis_ on "Electric charging behaviour – Understanding the trilemma of willingness to pay, the value of time and source of energy in the context of public charging stations in the German part of Switzerland", ETH Zürich _(Nov 2021)_<br>
-**Lecture** on _Battery-electric Vehicle Adoption_ at Frontiers in Energy Research, Organiser: Energy Science Centre, ETH Zurich _(2021)_<br>
-**Lecture** on _Sustainable Development_ at “Political Economy”. Organisation jointly with: V. Koubi, D. Kolcava, ETH Zurich _(2021)_<br>
-**Supervision** of _master thesis_ on “The role of charging infrastructure to the mainstream adoption of battery electric vehicles (BEVs)”, ETH Zurich _(2020)_<br>
-**Lecture** on _Experimental Political Science_ at Proseminar 2. Organisers: D. Presberger, F. Quoß, ETH Zurich _(2020)_<br>
-**Tutorial** _Methoden der Empirischen Sozialforschung_ (Empirical social science methods), lecture by Dr. L. Rudolph, ETH Zurich _(2018&2019)_<br>
-**Seminar** instructor _IDEA League Challenge: The mobility challenge_, Organize: Prof. Dr. T. Bernauer, ETH Zurich _(2018&2019)_<br>
+* **Lectures** _Renewable Energy Acceptance using Causality and Data Science_ Organiser: Prof. Dr. Philipp Schütz, Domain Experience: Data analytics for energy systems and IOT, Lucerne University of Applied Sciences and Arts. _(Spring 2024)_<br> 
+* **Lectures** _Political Economy of Climate Change_, Organiser: Prof. Dr. V. Koubi, University of Bern _(Spring 2023)_<br> 
+* **Lecture** _Climate Change Policy and Electric Vehicles in Europe_, Organiser: Climate Physics seminar, Weber State University, Ogden, Utah. _(Nov 2022)_<br>
+* **Supervision** of _master thesis_ entiteled "Electric charging behaviour – Understanding the trilemma of willingness to pay, the value of time and source of energy in the context of public charging stations in the German part of Switzerland", ETH Zürich _(Nov 2021)_<br>
+* **Lecture** on _Battery-electric Vehicle Adoption_ at Frontiers in Energy Research, Organiser: Energy Science Centre, ETH Zurich _(2021)_<br>
+* **Lecture** on _Sustainable Development_ at “Political Economy”. Organisation jointly with: V. Koubi, D. Kolcava, ETH Zurich _(2021)_<br>
+* **Supervision** of _master thesis_ entiteled “The role of charging infrastructure to the mainstream adoption of battery electric vehicles (BEVs)”, ETH Zurich _(2020)_<br>
+* **Lecture** on _Experimental Political Science_ at Proseminar 2. Organisers: D. Presberger, F. Quoß, ETH Zurich _(2020)_<br>
+* **Tutorial** _Methoden der Empirischen Sozialforschung_ (Empirical social science methods), lecture by Dr. L. Rudolph, ETH Zurich _(2018&2019)_<br>
+* **Seminar** instructor _IDEA League Challenge: The mobility challenge_, Organize: Prof. Dr. T. Bernauer, ETH Zurich _(2018&2019)_<br>
 
 ## 💸 Grants
-**In-kind Grant** [University of Bern eCoaches digital skills in teaching program](https://www.ecoach.unibe.ch) funding a teaching assistant for Master's seminar in fall semester 2024<br>
-**Travel Grant** [UniBE Short Travel Grants for (Post)Docs](https://www.unibe.ch/studies/programs/doctorate/doctoral_degree/funding_program_unibe_short_travel_grants_for_postdocs/index_eng.html) funding for research stay at LSE, CHF 7,000, 2023<br>
-**Travel Grant** from Berne University Research Foundation for research stay at LSE, CHF 3,398, 2023<br>
-**Travel Grant** from Swiss Academy of Social Sciences and Humanities [(SAGW)](https://www.sagw.ch/sagw/) for a conference visit, CHF 500, 2023 <br>
-**Project Grant** Swiss Academy of Social Sciences and Humanities [(SAGW)](https://www.sagw.ch/sagw/), project funding for Swiss Social Science & Humanities Energy Research Group, CHF 7,000, 2022<br>
-**Project Grant**	Swiss Office of Energy Swiss Federal Office of Energy, [(SFOE)](https://www.bfe.admin.ch/), project funding for Swiss Social Science & Humanities Energy Research Group, CHF 5,000, 2022<br>
-**Project Grant** [Promotion Fund](https://www.unibe.ch/research/promotion_of_research/uni_internal_grants/promotion_fund/index_eng.html) (funding for networking activities of intermediate statt members) at University of Bern, project funding for Swiss Social Science and Humanities Energy Research Group Workshops, CHF 5,000, jointly received with Rebeka Sträter and Jonas Schmid
+* **In-kind Grant** [University of Bern, Faculty of Business, Economics and Social Sciences, Competitive funding scheme for young researchers with outstanding scientific qualifications](https://www.wiso.unibe.ch/ueber_uns/gleichstellung_und_nachwuchsfoerderung/foerdermassnahmen/kompetitives_foerdergefaess_fuer_nachwuchsforschende_mit_herausragender_wissenschaftlicher_qualifizierung/index_ger.html) funding a research assistant for 8 months in 2025<br>
+* **In-kind Grant** [University of Bern eCoaches digital skills in teaching program](https://www.ecoach.unibe.ch) funding a teaching assistant for Master's seminar in fall semester 2024<br>
+* **Travel Grant** [UniBE Short Travel Grants for (Post)Docs](https://www.unibe.ch/studies/programs/doctorate/doctoral_degree/funding_program_unibe_short_travel_grants_for_postdocs/index_eng.html) funding for research stay at LSE, CHF 7,000, 2023<br>
+* **Travel Grant** from Berne University Research Foundation for research stay at LSE, CHF 3,398, 2023<br>
+* **Travel Grant** from Swiss Academy of Social Sciences and Humanities [(SAGW)](https://www.sagw.ch/sagw/) for a conference visit, CHF 500, 2023 <br>
+* **Project Grant** Swiss Academy of Social Sciences and Humanities [(SAGW)](https://www.sagw.ch/sagw/), project funding for Swiss Social Science & Humanities Energy Research Group, CHF 7,000, 2022<br>
+* **Project Grant**	Swiss Office of Energy Swiss Federal Office of Energy, [(SFOE)](https://www.bfe.admin.ch/), project funding for Swiss Social Science & Humanities Energy Research Group, CHF 5,000, 2022<br>
+* **Project Grant** [Promotion Fund](https://www.unibe.ch/research/promotion_of_research/uni_internal_grants/promotion_fund/index_eng.html) (funding for networking activities of intermediate statt members) at University of Bern, project funding for Swiss Social Science and Humanities Energy Research Group Workshops, CHF 5,000, jointly received with Rebeka Sträter and Jonas Schmid
 
 
 
