@@ -60,7 +60,7 @@ Brückmann, G. & Bernauer, T. (2020). _What drives public support for policies t
 •	Covered in [Yale Environmental Review](https://environment-review.yale.edu/pulling-public-embrace-adoption-electric-vehicles). Explained in [ISTP4Public video](https://twitter.com/istp_eth/status/1271004682979336193?s=20). <br><br>
 
 ## 🧑🏼‍💼 Conference and Academic Seminar Presentations
-* _2025_: SPSA (Swiss Political Science Association Annual Congress), Alp-Pop, MZES-DVPW Conference Methods of Political Science, Swiss Social Science and Humanities Energy Workshop <br>
+* _2025_: SPSA (Swiss Political Science Association Annual Congress), Alp-Pop, MZES-DVPW Conference Methods of Political Science, PolMeth Europe, EPG Survey Workshop, Swiss Social Science and Humanities Energy Workshop <br>
 * _2024_: SPSA, APSA (American Political Science Association) Virtual Research Meeting, Swiss Social Science and Humanities Energy Workshop, EPSA (European Political Science Association Annual Congress), E4EE (Workshop on Experimental Economics for the Environment) <br>
 * _2023_: SPSA , EPCS (European Public Choice Society), EPSA, Swiss Social Science and Humanities Energy Workshop (as organizer and presenter), Dreiländertagung (D-A-CH-Congress) (presenter and panel organizer), LSE Social Policy seminar <br>
 * _2022_: SPSA, PolMeth Europe, Swiss Social Science and Humanities Energy Workshops (lead organiser), EPSA, EPG Online  <br>
