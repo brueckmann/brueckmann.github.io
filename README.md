@@ -7,7 +7,7 @@ Working on the projects [SWEET EDGE](https://www.sweet-edge.ch/en/home/) (Enabli
 <br><br>
 ## 🚗 Previous Academic Positions: 
 
-**Visiting Fellow London | School of Economics and Political Science** @ [Social Policy Department](https://www.lse.ac.uk/social-policy/) <br> _(09/2023-12/2023)_ <br>
+**Visiting Fellow | London School of Economics and Political Science** @ [Social Policy Department](https://www.lse.ac.uk/social-policy/) <br> _(09/2023-12/2023)_ <br>
 Working on urban experiences with environmental policies targeted at transport emissions, such as Low Traffic Neighbourhoods  (LTNs) and Ultra-Low Emission Zones (ULEZ).<br><br>
 
 **Researcher & PhD Candidate | ETH Zurich** @ [International Political Economy and Environmental Politics](https://ib.ethz.ch/) & [Institute of Science, Technology and Policy](https://istp.ethz.ch/) [(Swiss Mobility Lab)](https://istp.ethz.ch/research/mobility.html) <br>
