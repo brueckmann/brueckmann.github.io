@@ -25,7 +25,6 @@ format:
   html:
     respect-user-color-scheme: true
     theme:
-      light: solar
       dark: solar
     css: styles.css
     toc: true
