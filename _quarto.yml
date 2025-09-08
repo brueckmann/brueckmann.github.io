@@ -15,9 +15,9 @@ website:
   favicon: <i class="bi bi-lightning-charge-fill"></i>
   navbar:
     left:
-      - href: about.qmd
-        text: Home
       - href: index.qmd
+        text: Home
+      - href: cv.qmd
         text: "Academic CV"
  
 

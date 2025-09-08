@@ -1,0 +1,47 @@
+---
+title: Academic curriculum vitæ
+date: 2025-09-08
+published-title: "CV last updated:"
+engine: knitr
+freeze: false
+cv:
+  pdf: "CV_GBrueckmann.pdf"
+---
+ 
+
+Download current CV directly from github [here](https://github.com/brueckmann/test-quarto-githubpages/blob/main/docs/CV_GBrueckmann.pdf?raw=True):
+
+```{=html}
+<p class="text-center">
+  <a class="btn btn-primary btn-lg cv-download" href="https://github.com/brueckmann/test-quarto-githubpages/blob/main/docs/CV_GBrueckmann.pdf?raw=True" target="_blank">
+    <i class="bi bi-file-earmark-pdf-fill"></i>&ensp;Download current CV
+  </a>
+</p>
+```
+
+```{css echo=FALSE}
+.embed-container {
+    position: relative;
+    padding-bottom: 129%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+```
+
+```{=html}
+
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$cv$pdf`" style="border: 0.5px"></iframe>
+</div>
+```
