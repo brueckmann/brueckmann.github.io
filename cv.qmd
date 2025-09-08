@@ -8,13 +8,10 @@ cv:
   pdf: "CV_GBrueckmann.pdf"
 ---
  
-
-Download current CV directly from github [here](https://github.com/brueckmann/test-quarto-githubpages/blob/main/docs/CV_GBrueckmann.pdf?raw=True):
-
 ```{=html}
 <p class="text-center">
-  <a class="btn btn-primary btn-lg cv-download" href="https://github.com/brueckmann/test-quarto-githubpages/blob/main/docs/CV_GBrueckmann.pdf?raw=True" target="_blank">
-    <i class="bi bi-file-earmark-pdf-fill"></i>&ensp;Download current CV
+  <a class="btn btn-primary btn-lg cv-download" href="https://github.com/brueckmann/brueckmann.github.io/blob/main/docs/CV_GBrueckmann.pdf?raw=True" target="_blank">
+    <i class="bi bi-file-earmark-pdf-fill"></i>&ensp;Download CV
   </a>
 </p>
 ```
