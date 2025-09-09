@@ -19,6 +19,10 @@ website:
         text: Home
       - href: cv.qmd
         text: "Academic CV"
+      - href: publications.qmd
+        text: "Publications"
+      - href: teaching.qmd
+        text: "Teaching"
  
 
 format:
