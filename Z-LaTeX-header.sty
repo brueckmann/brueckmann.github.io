@@ -1,0 +1,60 @@
+
+%Make everything bigger: 
+\usepackage[scale=0.83]{geometry}
+\recomputelengths
+
+       
+
+\usepackage{enumitem}
+\usepackage{ragged2e}
+\usepackage{etaremune}
+\usepackage{amssymb}
+\DeclareMathAlphabet{\timesbf}{T1}{qtm}{b}{n}
+
+\definecolor{mycolor_unterschrift}{RGB}{41,	72,	149}	% Blue
+\colorlet{color1}{mycolor_unterschrift}
+
+\definecolor{mycolor_darkgrey}{RGB}{96, 96, 96} % grey
+\colorlet{color2}{mycolor_darkgrey}
+
+\colorlet{lastnamecolor}{black}
+\colorlet{firstnamecolor}{lastnamecolor}            
+
+\firstname{G.}
+\familyname{Brückmann}
+\title{Academic CV (\today)}  
+
+\renewcommand*{\namefont}{\fontsize{36}{38}\bfseries}
+
+
+\newcommand{\textSum}{\(\sum\)}
+
+\ProvidesPackage{Z-LaTeX-header}
+
+
+
+
+% \address{University of Bern 
+% }{Institute of Political Science}{Fabrikstrasse 8, 3012 Bern}
+%\address{University of Bern, Institute of Political Science}{Fabrikstrasse 8, Office: A 169}{CH--3012 Bern}
+\address{University of Bern}{Fabrikstrasse 8, 3012 Bern}{SWITZERLAND}
+
+\email{gracia.brueckmann@unibe.ch}
+\social[orcid]{0000-0001-5674-2343}
+\social[googlescholar]{CrgXLfIAAAAJ}
+\homepage{brueckmann.github.io}
+%\social[github]{brueckmann}
+%\social[mastodon]{fediscience.org/@brueckmann/}
+%\social[bluesky]{@brueckmann.bsky.social}
+
+
+
+\usepackage[style=apa6,
+maxcitenames=999, 
+mincitenames=1, 
+maxbibnames=999,
+minbibnames=1,
+apamaxprtauth=999]{biblatex}
+
+
+\addbibresource{references_web.bib}

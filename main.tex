@@ -1,326 +1,34 @@
 \documentclass[12pt,a4paper]{moderncv}
 \moderncvtheme[blue]{classic} 
 
-%Make everything bigger: 
-\usepackage[scale=0.83]{geometry}
-\recomputelengths
-
-       
-
-\usepackage{enumitem}
-\usepackage{ragged2e}
-\usepackage{etaremune}
-\usepackage{amssymb}
-\DeclareMathAlphabet{\timesbf}{T1}{qtm}{b}{n}
-
-\definecolor{mycolor_unterschrift}{RGB}{41,	72,	149}	% Blue
-\colorlet{color1}{mycolor_unterschrift}
-
-\definecolor{mycolor_darkgrey}{RGB}{96, 96, 96} % grey
-\colorlet{color2}{mycolor_darkgrey}
-
-\colorlet{lastnamecolor}{black}
-\colorlet{firstnamecolor}{lastnamecolor}            
-
-\firstname{G.}
-\familyname{Brückmann}
-\title{Academic CV (\today)}  
-
-\renewcommand*{\namefont}{\fontsize{36}{38}\bfseries}
-
-
-\newcommand{\textSum}{\(\sum\)}
-
-
-
-
-
-
-% \address{University of Bern 
-% }{Institute of Political Science}{Fabrikstrasse 8, 3012 Bern}
-%\address{University of Bern, Institute of Political Science}{Fabrikstrasse 8, Office: A 169}{CH--3012 Bern}
-\address{University of Bern}{Fabrikstrasse 8, 3012 Bern}{SWITZERLAND}
-
-\email{gracia.brueckmann@unibe.ch}
-\social[orcid]{0000-0001-5674-2343}
-\social[googlescholar]{CrgXLfIAAAAJ}
-\homepage{brueckmann.github.io}
-%\social[github]{brueckmann}
-%\social[mastodon]{fediscience.org/@brueckmann/}
-%\social[bluesky]{@brueckmann.bsky.social}
-
-
-
-\usepackage[style=apa6,
-maxcitenames=999, 
-mincitenames=1, 
-maxbibnames=999,
-minbibnames=1,
-apamaxprtauth=999]{biblatex}
-
-
-\addbibresource{references_web.bib}
-
+% Packages
+%-----------------------------------------------------------------
+\usepackage{import}
+\usepackage{Z-LaTeX-header}
 
 \begin{document}
-
-
-
-
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%% BEGINNING OF CV %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
 \makecvtitle
 
-\section{Academic Employment \& Affiliations}
-\subsection{Current}
-\cvline{Since 10/2021}{\textbf{University of Bern} \newline{}
-Postdoctoral researcher at the \href{https://www.ipw.unibe.ch/index_eng.html}{\textit{Institute of Political Science}}, affiliated with the \href{https://www.oeschger.unibe.ch/}{\textit{Oeschger Center for Climate Change Research} (OCCR)}. Working in the research consortia \href{www.sweet-sure.ch}{SWEET SURE} (SUstainable and Resilient Energy for Switzerland) with a focus on trade-offs between energy pathways and shocks using serious games \& \href{www.sweet-edge.ch}{SWEET EDGE} (Enabling Decentralized renewable GEneration in the Swiss cities, midlands, and the Alps) focusing on the public acceptance of domestic renewable energy generation and international climate policies. %, both funded by the Swiss Federal Office of Energy, SFOE.
-} 
-
-\subsection{Previous}
-\cvline{09 - 12/2023}{\textbf{London School of Economics and Political Science (LSE)}\newline{} Visiting Fellowship at the \href{https://www.lse.ac.uk/social-policy}{Department of \textit{Social Policy}} \& \href{https://www.lse.ac.uk/granthaminstitute/}{\textit{Grantham} Research Institute on Climate Change and the Environment}.} %Research project on urban environmental policies.} 
-\cvline{10/2017 - 09/2021}{\textbf{ETH Zurich} \newline{} Researcher and PhD candidate at the \href{https://ib.ethz.ch/}{\textit{International Political Economy and Environmental Politics}} group \& the \href{https://istp.ethz.ch/}{\textit{Institute of Science, Technology and Policy}}% (Swiss Mobility Lab). Projects included \textit{Fostering the Transition Towards More Fuel-Efficient Cars}
-.} 
-
-
-\section{Completed Education}
- \cvline{2017 – 2021}{ \textbf{Dr. sc. ETH}, ETH Zurich, Switzerland
-  \newline{}%\textbf
-  {Thesis:} \textit{Electric vehicle adoption and acceptance}\newline{}Supervisor: Prof. Dr. Thomas Bernauer
-  \newline{} Committee: Prof. Dr. Isabelle Stadelmann-Steffen, Prof. Dr. Kay W. Axhausen}
-
- \cvline{2014 – 2017}{ \textbf{Master of Science International Economics and Policy Consulting}, University of Magdeburg, Germany 
-  \newline{%\textbf
-  {Thesis:} \textit{An Econometric Analysis of the Effect of Political Contributions from the Oil Industry on Votes at the US Congress}}} 
-
- \cvline{2015 – 2016}{University of Nice Sophia Antipolis, {Erasmus Scholarship}, Nice, France}
-
- \cvline{2010 – 2013}{ \textbf{Bachelor of Science Economics}, Ludwig-Maximilians University (LMU), Munich, Germany
-  \newline{%\textbf
-  {Thesis:} \textit{Widowhood, Medical Expenditures, and Health Care Utilization among the Elderly US Population}}}
- \cvline{2012 – 2013}{Stockholm University, {Erasmus Scholarship}, Stockholm, Sweden}
-  \cvline{2010}{Abitur, Roßleben, Germany}
-
-
-
-
+\input{tex-cv-sections/cv-section-A-EmploymentEducation}
 \newpage
 \section{List of Publications}
- \subsection{Articles published in peer-reviewed journals}
-\begin{etaremune}[leftmargin=2.75cm,itemsep=2pt]
-
-\item {\fullcite{Brueckmann2025ITMOs}}. \href{https://doi.org/10.1016/j.crsust.2025.100295}{\texttt{DOI.}}
-\item \fullcite{bruckmannruprecht2024tenants_web}. \href{https://www.doi.org/10.1016/j.erss.2024.103819}{\texttt{DOI.}}
-\item \fullcite{bruckmann2023SSHenergy_web}. \href{https://www.doi.org/10.1371/journal.pclm.0000132}{\texttt{DOI.}} 
-\item \fullcite{bruckmann2023charging_web}. \href{https://www.doi.org/10.1016/j.trd.2023.103626}{\texttt{DOI.}} 
-\item \fullcite{wickibrueckmann2023_web}. \href{https://www.doi.org/10.1080/01441647.2021.2023693}{\texttt{DOI.}} 
-\item  \fullcite{bruckmann2022intention_web}. \href{https://www.doi.org/10.1016/j.enpol.2022.113047}{\texttt{DOI.}} 
-\item \fullcite{bruckmann2022actualadoption_web}. \href{https://www.doi.org/10.1016/j.tra.2022.03.025}{\texttt{DOI.}} 
-\item \fullcite{wickibrueckmann2022choiceexp_web}. \href{https://www.doi.org/10.1016/j.jclepro.2022.131774}{\texttt{DOI.}} 
-\item \fullcite{bruckmann2021resale_web}. \href{https://www.doi.org/10.1088/1748-9326/ac3531}{\texttt{DOI.}}
-\item \fullcite{bruckmannwillibald2021_web}. \href{https://www.doi.org/10.1016/j.trd.2020.102615}{\texttt{DOI.}} 
-\item \fullcite{bruckmann2020drives_web}. \href{https://www.doi.org/10.1088/1748-9326/ab90a5}{\texttt{DOI.}} 
-\end{etaremune}
-
-
-
- \subsection{Book chapters, PhD thesis \& recent reports}
- \begin{itemize}[leftmargin=2.75cm,itemsep=2pt]
-
-   \item\fullcite{bruckmann2024whoowns_web}. \href{https://doi.org/10.17605/OSF.IO/Z5R26}{\texttt{DOI.}}
-\item\fullcite{brueckmann2023_web}. \href{https://www.economicswebinstitute.org/books/ssh-contributions%20to%20the%20energy%20research%20debate-a4.pdf}{\texttt{Link.}}
-\item\fullcite{brueckmannbernauersfoe_web}. \href{https://aramis.admin.ch/Texte/?ProjectID=41021}{Aramis \texttt{link}.}
- \item\fullcite{StadtZH2021_web}. \href{https://www.doi.org/10.3929/ethz-b-000476614}{\texttt{DOI.}}
- \item\fullcite{Bruckmann2021PhDthesis_web}. \href{https://www.doi.org/10.3929/ethz-b-000512355}{\texttt{DOI.}}
-  
-% \item\fullcite{bruckmann2020energyblog_web}. \href{https://www.blogs.ethz.ch/energy/electric-vehicles-in-zurich}{Link.}
-%  \item\fullcite{Loder_web}. \href{http://hdl.handle.net/20.500.11850/319460}{Link.} 
-%  \item\fullcite{FormelE_web}. \href{https://www.doi.org/10.3929/ethz-b-000267631}{\texttt{DOI.}}
-\end{itemize}
-
-
-
-\subsection{Working papers \& work-in-progress}
-\begin{itemize}[leftmargin=2.75cm,itemsep=2pt]
-\item {\fullcite{bruckmann2024methods_web} \href{https://www.doi.org/10.31235/osf.io/kr64j_v1}{\texttt{SocArXiv} preprint.}}
-\item {\fullcite{bruckmann2024policyplus_web} \href{https://www.doi.org/10.17605/OSF.IO/JNS4H}{Pre-registration on \texttt{OSF}.}} 
-\item {\fullcite{bruckmannbelmont2024_web} \href{https://osf.io/h2stv/?view_only=db9bcdb538bb4a028d96aec6c6821ab6}{Pre-registration on \texttt{OSF}}.}
-\item {\fullcite{EnsuredEnergy2024_web} \href{https://osf.io/atcyr/?view_only=0b7495d1f3ca480fbc1a8dfef4a64911}{Pre-registration on \texttt{OSF}}.}
-\item {\fullcite{GameTechnicalPaper_web}
-\href{https://doi.org/10.48550/arXiv.2508.12799}{\texttt{ArXiv} preprint.} \href{https://sweet-sure.ch/game/}{Serious game \texttt{online}}.}
-\item {\fullcite{EDGE2Conjoint} \href{https://osf.io/5atwq/?view_only=d5afa28f9a214b48af3ec1d514dbc7d4}{Pre-registration on \texttt{OSF}}.}
-\item {\fullcite{EDGE2DistribInfo} \href{https://osf.io/5atwq/?view_only=d5afa28f9a214b48af3ec1d514dbc7d4}{Pre-registration on \texttt{OSF}}.}
-\end{itemize}
-% To reveal info on where submitted, just remove the _web.
-
-
-\section{List of Academic Presentations}
- \subsection{Conference presentations}
-  \cvline{2025}{\textbf{SPSA} (Swiss Political Science Association Annual Congress) (as presenter and panel organiser), \textbf{ALPOP}, Annual Meeting Methods of Political Science Section DVPW (German Political Science Association), \textbf{PolMeth Europe}, \textbf{EPG} (Environmental Politics and Governance) survey workshop, \textbf{3SHE} (Swiss Social Science and Humanities Energy) Workshop, EPSA (accepted).} 
-  \cvline{2024}{\textbf{SPSA}, \textbf{APSA} (American Political Science Association) \textbf{Virtual Research Meeting} (as presenter and panel organiser), \textbf{3SHE} Workshop, \textbf{EPSA} (European Political Science Association Annual Congress), \textbf{E4EE} (Workshop on Experimental Economics for the Environment).}
- \cvline{2023}{\textbf{SPSA}, \textbf{EPCS} (European Public Choice Society), \textbf{EPSA}, \textbf{3SHE} Workshop (as organiser and presenter), \textbf{Dreiländertagung} %(D-A-CH Congress)
- (as presenter and panel organiser).}
- \cvline{2022}{\textbf{SPSA}, \textbf{PolMeth Europe}, two \textbf{3SHE} workshops (lead organiser), \textbf{EPSA}, \textbf{EPG} (Environmental Politics and Governance) online.}
- \cvline{2021}{\textbf{SPSA}, \textbf{OSWEET} (Online Summer Workshop in Environment, Energy, and Transportation).}
-\cvline{2020}{EMEE, SPSA (both accepted, not participated due to injury). \textbf{PSA ECN} (Political Studies Association, Early Career Network). %{3-Länder International Political Economy} (Paper accepted, conference cancelled.)
-}
-\cvline{2019}{\textbf{IAEE} (International Association of Energy Economics) International Conference, \textbf{EPSA}, \textbf{AIEE} (Italian affiliate of IAEE) Energy Symposium.}
-
-\subsection{Invited talks \& seminar presentations}
-\cvline{2025}{University of Konstanz, Department of Politics and Public Administration, Center for Data and Methods Colloquium.}
-\cvline{2024}{ECPR Methodology Section -- ECR Virtual Seminar Series on Survey Research.}
- \cvline{2023}{London School of Economics and Political Science, Social Policy Research Seminar.}
- \cvline{2023}{University of Lausanne \& EPFL CLIMACT (Center for Climate Impact and Action) Seminar.}
-  \cvline{2023}{SWEET EDGE Biennial Conference, Bern.}
-   \cvline{2021}{UC Davis, California, Institute of Transportation Studies, Plug-in Hybrid and Electric Vehicle Research Center, Seminar.}
-      \cvline{2021}{University of Bath, Environment, Transport, and Sustainability (EnTS) Research.}
-                  \cvline{2021}{Z-PESS (Zurich Political Economy Seminar Series).}
-
-
-
-%%% Teaching Experience ___________________________________________________________________________________________________________________________________________________
-\section{Teaching \& Supervision}
-
-\cvline{\textit{(Note:}}{${\mathbb{B}}$ \textit{denotes teaching for Bachelor's students,} ${\mathbb{M}}$ \textit{for Master's students, and ${\mathbb{P}}$ for PhD students. The course language was English unless} ${\timesbf{G}}$ \textit{indicates courses in German.)}}
-
-
-\subsection{Own semester-long teaching}
-\cvline{Since 2022 (annually)}{\textbf{Seminar} \textit{Energy and Mobility Policies for Decarbonisation} $^{(\mathbb{M})}$, \newline{}University of Bern.}
-%\cvline{2024}{\textbf{Lecture} \textit{Die Kunst der kausalen Inferenz} (The Art of Causal Inference), University of Bern.}
-%Syllabus Link: https://brueckmann.github.io/KKI_Syllabus/PDF_Syllabus_KKI_GBrueckmann.pdf
-\cvline{2024}{\textbf{Lecture} \textit{The Art of Causal Inference} $^{(\mathbb{B} \& \mathbb{M},\timesbf{G})}$, University of Bern.}
-\newpage
-\subsection{Co-teaching \& guest lectures}
-\cvline{2024}{\textbf{Guest lecture} \textit{Renewable Energy Acceptance using Causality and Data Science} in Domain Experience: Data analytics for energy systems and IOT $^{(\mathbb{M})}$ \newline{} Organiser: P. Schütz, Lucerne University of Applied Sciences and Arts.}
-\cvline{2023}{\textbf{Lectures} \textit{Political Economy of Climate Change} $^{(\mathbb{M} \& \mathbb{P})}$ \newline{} Organiser: V. Koubi, University of Bern.}
-\cvline{2023}{\textbf{Guest lecture} \textit{Acceptance of Electric Vehicle Policies} in Topics on Advanced Transport Engineering $^{(\mathbb{M})}$ Organiser: Namibia University of Science \& Technology.}
-\cvline{2022}{\textbf{Guest lecture} \textit{Climate Change Policy and Electric Vehicles in Europe} in Climate Physics Seminar $^{(\mathbb{B} \& \mathbb{M})}$ Organiser: Weber State University, Ogden, Utah.}
-\cvline{2021}{\textbf{Seminar} \textit{Battery-electric vehicle adoption and RCTs} 
-in Frontiers in Energy Research $^{(\mathbb{P})}$ Organiser: Energy Science Centre, ETH Zurich.}
-\cvline{2021}{\textbf{Lecture} \textit{Sustainable Development} in \textit{Political Economy} $^{(\mathbb{M} \& \mathbb{P})}$ \newline{} Organiser: Organised with V. Koubi \& D. Kolcava, ETH Zurich.}
-\cvline{2020}{\textbf{Lecture} \textit{Experimental Political Science} in Proseminar 2 $^{(\mathbb{B} \& \mathbb{M},\timesbf{G})}$ \newline{} Organisers: D. Presberger, F. Quoß, ETH Zurich.}
-\cvline{2018, 2019}{\textbf{Tutorial} \textit{Empirical Social Science Research Methods} $^{(\mathbb{B},\timesbf{G})}$ \newline{} Organiser: L. Rudolph, ETH Zurich.}
-%\textit{Methoden der Empirischen Sozialforschung}
-\cvline{2018, 2019}{\textbf{Seminar} \textit{The Mobility Challenge} in \href{https://idealeague.org/students/challenge-programme}{IDEA League Challenge programme} $^{(\mathbb{B} \& \mathbb{M})}$ \newline{} Organiser: T. Bernauer, ETH Zurich.}
-%\cvline{2012}{\textbf{Tutorial} \textit{Mathematische Methoden der VWL} (mathematical methods in economics), LMU Munich.}
-\cvline{2012}{\textbf{Tutorial} \textit{Mathematical Methods in Economics} $^{(\mathbb{B},\timesbf{G})}$, LMU Munich.}
-
-
-\subsection{Supervision \& examinations}
-\cvline{2024}{\textbf{Pre-doc examination} (committee member), Renewable Energy Systems, Organiser: Prof. Dr. Evelina Trutnevyte, University of Geneva.}
-\cvline{Since 2021}{\textbf{Mentoring} PhD students at the Institute of Political Science and the Oeschger Centre for Climate Change Research, University of Bern.}
-\cvline{2021}{\textbf{Supervision of Master's thesis} \textit{Electric charging behaviour – Understanding the trilemma of willingness to pay, the value of time and source of energy in the context of public charging stations in the German part of Switzerland}, ETH Zurich.}
-\cvline{2020}{\textbf{Supervision of Master's thesis} \textit{The role of charging infrastructure to the mainstream adoption of battery electric vehicles (BEVs)}, ETH Zurich.}
-
-
-
-%%% Funding ___________________________________________________________________________________________________________________________________________________
-%\section{Awards and Funding}
-\section{Funding \& Grants received (\textSum{} CHF 56,800)}
-\cvline{2025}{\textbf{University of Bern} \textit{in-kind grant} for a research assistant for 8 months awarded by the Faculty of Business, Economics and Social Sciences, \textit{competitive funding scheme for young researchers with outstanding scientific qualifications}($\textstyle{\approx}$ CHF 17,500).}
-\cvline{2024}{\textbf{University of Bern} \textit{in-kind grant} for a teaching assistant for the fall 2024 Master's seminar, awarded by the \textit{eCoaches for digital skills in teaching} programme ($\textstyle{\approx}$ CHF 11,500).}
-\cvline{2023}{\textbf{Berne University Research Foundation} \textit{travel grant} for research stay at London School of Economics and Political Science (CHF 3,398).} %until here everything adds up to 27898
-\cvline{2023}{\textbf{Swiss Academy of Social Sciences and Humanities} \textit{travel grant} for Dreiländertagung, Linz, Austria (CHF 500).}
-\cvline{2023}{\textbf{UniBE Short Travel Grants for (Post)Docs} \textit{travel grant} for research stay at London School of Economics and Political Science (CHF 7,000).}
-\cvline{2022}{\textbf{Swiss Academy of Social Sciences and Humanities} \textit{project funding} for Swiss Social Science and Humanities Energy Research Group (CHF 7,000).}
-\cvline{2022}{\textbf{Swiss Office of Energy (SFOE)} \textit{project funding} for Swiss Social Science and Humanities Energy Research Group Workshops (CHF 5,000).}
-\cvline{2022}{\textbf{Fund for the Promotion of Young Researchers} \textit{project funding} for Swiss Social Science and Humanities Energy Research Group Workshops, jointly received with R. Sträter and J. Schmid (CHF 5,000).}
-
-% \subsection{older Academic Awards and Scholarships}
-% \cvline{2017}{\textit{Dean’s List of Excellent Alumni}, Faculty of Economics and Management, University of Magdeburg}
-% \cvline{2011 - 2013}{Invitation to participate in \textit{Munich Honours Program in Economics}}
-% \cvline{2008 - 2011}{Scholarship \textit{Studienkompass} from SDW}
-% \cvline{2010}{Awards from Siemens, German Mathematicians Society, and German Chemistry Society}
-% \cvline{2008 - 2010}{Scholarship POK Pühringer Privatstiftung, Vienna}
-
-
-
-
-\section{Services to the Academic Community}   
-%%% FULL LIST OF PEER REVIEWING BELOW  ___________________________________________________________________________________________________________________________________________________
-
- \subsection{Recent peer-review activities}
-	\cvline{Academic journals}{\textit{Applied Economics, 
-    Climate Policy, 
-    Energy Economics,
-    Energy Policy, 
-    Energy Research \& Social Science (ERSS), 
-   % Environmental Research Communications, 
-    Environmental Research Letters (ERL), 
-   % Environmental Sciences Europe, 
-    European Journal of Political Research (EJPR), 
-    Global Sustainability, 
-    Joule, 
-    Nature Energy, 
-   % Patterns, 
-    PLOS Climate, 
-    Renewable and Sustainable Energy Transition,
-    Scientific Reports,
-    The Journal of Politics (JOP), 
-    The Review of International Organizations (RoIO), 
-    Transportation, 
-    Transportation Research Part D: Transport \& Environment.}}
-
-\subsection{Committee positions \& organizational responsibilities}
- \cvline{2025}{\textit{Election committee} for the election of a spokesperson, DVPW's Methods Section}
-  \cvline{Since 2025}{\textit{EPSS} (European Political Science Society) \textit{Diversity Committee}}
- \cvline{Since 2024}{Early Career Researcher (ECR) \textit{Editorial Advisory Board} for \textit{Policy \& Politics}}
- \cvline{Since 2023}{Mentor for first-time conference attendees (EPSA LGBTQ+ mentoring scheme)}
-  \cvline{Since 2023}{AG Queer UniBe (University of Bern's LGBTQIA+ employee network)}
-  	 \cvline{2022 - 2024}{\textit{Gender Equality Commission} (deputy), 
-     University of Bern}
-	\cvline{Since 2022}{\textit{Commission for the Promotion of Early Career Researchers} and \textit{Quality Assurance and Development} (deputy), University of Bern}
- \cvline{Since 2022}{Selection panel \textit{Fund for the Promotion of Young Researchers}, University of Bern}
-	\cvline{Since 2021}{Founder of %and organiser 
-\href{https://www.ipw.unibe.ch/research/swiss_social_sciences__humanities_energy_research_group/index_eng.html}{\textit{Swiss Social Science and Humanities Energy Research Group}}}
-	\cvline{2017 - 2021}{\textit{Master in Science, Technology and Policy (MSc ETH STP}) \textit{Commission}, ETH Zurich}
-	\cvline{2011 - 2012}{\textit{Senate}, LMU Munich}
-
-%%% OUTREACH Experience ___________________________________________________________________________________________________________________________________________________
-\section{Recent Outreach Activities}
-\cvline{2025}{Demonstration at \textit{Night of Research} (\textit{Nacht der Forschung}), University of Bern}
-\cvline{2025}{Publication of serious game \href{https://www.sweet-sure.ch/game}{\textit{Ensured Energy}}}
-\cvline{2025}{Radio interviews with {\textit{Radio RaBe}}}
-\cvline{2025}{Background interviews for {\textit{SRF, Kassensturtz}} (TV)}
-\cvline{2024}{TV interview for \href{https://www.srf.ch/news/wirtschaft/weniger-zulassungen-e-autos-kommen-in-der-schweiz-nicht-auf-touren}{\textit{SRF, 10vor10}}}
-\cvline{2023, 2024}{Public presentation \& pub quiz \textit{Does the energy transition need policies?} %\textit{Braucht die Energiewende politische Massnahmen?} 
-for \textit{Energy Drinks}, \href{https://sweet-edge.ch/en/events}{Zurich} \& \href{https://sweet-edge.ch/en/news/energy-drinks-event-in-bern}{Bern}}
-\cvline{2024}{Interview for \href{https://www.theguardian.com/business/2024/jan/22/cars-growing-wider-europe-report}{\textit{The Guardian}}}
-%\cvline{2023}{Public lecture and pub quiz \textit{Braucht die Energiewende Politik?} (Does the energy transition needs policy and politics?) organised by \textit{Energy Drinks}, Bern}
-\cvline{2023}{Interviews for \href{https://www.theguardian.com/environment/2023/aug/26/europe-roadblocks-race-switch-electric-cars-evs-zero-emission-goal}{\textit{The Guardian}} and \href{https://energeiaplus.com/2023/02/22/krisen-sprache-gerechtigkeit-was-hat-das-mit-energieforschung-zu-tun/}{\textit{energia}}}
-\cvline{2023}{Public presentation %\textit{Akzeptanz und Wirksamkeit von Politikmassnahmen im Spannungsfeld {(E-)Mobilität}} (
-\textit{Acceptance and effectiveness of policies promoting electric mobility} at \textit{Pint of Science}, Bern}
-\cvline{2023}{Expert input \& discussion with students at Gymnasium Oberaargau%: Project \href{https://www.cde.unibe.ch/forschung/projekte/game_changers_for_change_agents_un_nachhaltigkeitsziele_im_dialog_chacha/index_ger.html}{\textit{Game Changers for Change Agents}} organised by \textit{Centre for Development and Environment (CDE)}, University of Bern}
-, organised by \textit{Centre for Development and Environment (CDE)}, University of Bern}
-\cvline{2022}{Panellist on \textit{Climate and Energy} for \href{https://ethz.ch/de/die-eth-zuerich/globales/eth-global-news-events/2022/11/eth-meets-nzz.html}{\textit{ETH meets NZZ}}}
-\cvline{2022}{Presentation \& meet-a-scientist %for Institute of Political Science and Oeschger Centre for Climate Change Research 
-at \textit{Night of Research} (\textit{Nacht der Forschung}), University of Bern}
-\cvline{2022}{Expert input on \textit{Climate Protection in Mobility and Buildings} at %\textit{Bürgerpanel} (
-\textit{Citizens panel} Thalwil, organised by \href{https://www.zdaarau.ch/en/}{\textit{Centre for Democracy Studies Aarau}}}
-
-\section{Selected Previous Positions}
-\cvline{2017}{Institute for Transport Planning and Systems, ETH Zurich, Prof. Dr. K. W. Axhausen, Zurich}
-\cvline{2016}{Max Planck Institute for Innovation and Competition, %Innovation and Entrepreneurship Research, 
-Prof. D. Harhoff, Ph.D., Munich}
-\cvline{2015}{German Council of Economic Experts, %Labour Market
-%(Replication of OECD study \textit{Trends in Income Inequality and its Impact on Economic Growth,} Indicators of Poverty, Productivity Accounting),
-Wiesbaden}
-\cvline{2014}{BMW, %Analysis and Prognosis Customer, Market and Competition (
-Strategic Market and Concurrence Prognosis%)
-, Munich}
-\cvline{2011 - 2013}{Seminar for Empirical Economics, LMU, Prof. Dr. J. Winter, Munich}
- 
-\section{Selected Skills}
-\cvline{Software}{MS Office, \LaTeX, R, Stata, git/github, Markdown, Qualtrics, HTML.}
-\cvline{Languages}{German (native), English (C2), French (B2), Swedish (A2),  Castellano (A1)}
-
+\input{tex-cv-sections/cv-section-B1-Published.tex}
+\input{tex-cv-sections/cv-section-B2-WIPs.tex}
+\input{tex-cv-sections/cv-section-C-Presentations.tex}
+\input{tex-cv-sections/cv-section-D-Teaching.tex}
+\input{tex-cv-sections/cv-section-E-Grants.tex}
+\input{tex-cv-sections/cv-section-F-Services}
+\input{tex-cv-sections/cv-section-G-Outreach}
+\input{tex-cv-sections/cv-section-H-previouspositions}
+\input{tex-cv-sections/cv-section-I-skills}
 
 \section{Academic References}
 Available up on request.
-%\input{reference-info.tex}
+\input{tex-cv-sections/cv-section-J-reference-info.tex}
 
 
 
