@@ -1,33 +1,36 @@
 ---
-title:  "Research Projects"
+title:  "Currrent Research Projects"
 engine: knitr
 freeze: false
+date: last-modified
+published-title: "Projects last updated:"
 ---
  
-::: {.callout-tip collapse="false"}
-#### Please note:
-Page currently under construction. 
-:::
+
 
 #  On Climate and Energy Policy 
 
-## Own project
+## Own Project(s):
 
-- InCAP (Inequality Perceptions and Climate Action Preferences) (InCAP)
-  - funded by the [University of Bern, Faculty of Business, Economics and Social Sciences, Competitive funding scheme for young researchers with outstanding scientific qualifications](https://www.wiso.unibe.ch/ueber_uns/gleichstellung_und_nachwuchsfoerderung/foerdermassnahmen/kompetitives_foerdergefaess_fuer_nachwuchsforschende_mit_herausragender_wissenschaftlicher_qualifizierung/index_ger.html) 
- - My research focus: Fairness perceptions and distributional preferences for domestic and international climate action, ITMOs, climate aid
+### InCAP (Inequality Perceptions and Climate Action Preferences) 
+
+  - 🙏 Funded through the [University of Bern, Faculty of Business, Economics and Social Sciences, Competitive funding scheme for young researchers with outstanding scientific qualifications](https://www.wiso.unibe.ch/ueber_uns/gleichstellung_und_nachwuchsfoerderung/foerdermassnahmen/kompetitives_foerdergefaess_fuer_nachwuchsforschende_mit_herausragender_wissenschaftlicher_qualifizierung/index_ger.html) 
+ - 🔎 My research focus: Fairness perceptions and distributional preferences for domestic and international climate action, ITMOs, climate aid
  
-## Larger projects I am involved
+## Research Consortias I am involved in:
 
 - [SWEET EDGE](https://www.sweet-edge.ch/en/home/) (Enabling Decentralized renewable GEneration in the Swiss cities, midlands, and the Alps)
-  - funded by the Swiss Federal Office of Energy ([SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/funding-program-sweet.html/))
-  - My research focus: Policy acceptance of solar PV and building sector decarbonization 
+  - 🙏 Funded by the Swiss Federal Office of Energy ([SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/funding-program-sweet.html/))
+  - 🔍 My research focus: Policy acceptance of solar PV and building sector decarbonization 
 
 - [SWEET SURE](https://sweet-sure.ch/) (SUstainable and Resilient Energy for Switzerland) 
-  - funded by the Swiss Federal Office of Energy ([SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/funding-program-sweet.html/))
-  - My research focus: Future climate and energy policy, efficacy, [serious games](https://github.com/brueckmann/CEGames)
+  - 🙏 Funded by the Swiss Federal Office of Energy ([SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/funding-program-sweet.html/))
+  - 🔍 My research focus: Future climate and energy policy, efficacy, [serious games](https://github.com/brueckmann/CEGames)
 
 
-# Community and Outreach 
-0rganisation of the [Swiss Social Science & Humanities Energy Research Group](https://t1p.de/SSHEnergy)
+
+::: {.callout-tip collapse="true"}
+#### Tip: See more
+Former research projects can be found in my [CV](https://github.com/brueckmann/brueckmann.github.io/blob/main/docs/CV_GBrueckmann.pdf?raw=True) on the dedicated page: [https://brueckmann.github.io/cv.html](https://brueckmann.github.io/cv.html)
+:::
 

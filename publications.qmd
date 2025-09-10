@@ -1,18 +1,20 @@
 ---
 title: "Academic Publications"
 format: html
+date: last-modified
+published-title: "Publications last updated:"
 ---
 
 ::: {.callout-tip collapse="false"}
-#### Tip
+#### Info
  ```{=html}
   <p class="text-center">
 Find my published work also on <a href="https://orcid.org/0000-0001-5674-2343"><i class="ai ai-orcid"></i>ORCID</a> and
- <a href="https://scholar.google.ch/citations?user=CrgXLfIAAAAJ&amp;hl=en/"><i class="ai ai-google-scholar"></i>Google Scholar</a>. <br>
-For upcoming work, see pre-registrations on <a href="https://osf.io/rbnhe/"><i class="ai ai-osf"></i>OSF</a> or head over to the <a href="https://brueckmann.github.io/projects.html">projects page</a>.
+ <a href="https://scholar.google.ch/citations?user=CrgXLfIAAAAJ&amp;hl=en/"><i class="ai ai-google-scholar"></i>Google Scholar</a>.
 </p>
 ```
 :::
+
 
 
 
@@ -21,6 +23,17 @@ For upcoming work, see pre-registrations on <a href="https://osf.io/rbnhe/"><i c
 Brückmann, G. & Stadelmann-Steffen, I. (2025). *To abstain or not to abstain from binary choice in conjoint experiments*. SocArXiv preprint. <https://www.doi.org/10.31235/osf.io/kr64j_v1> <br>
 
 Simpson, T., Jones, S., Brückmann, G., El-Ajou W., Moreira E., Martinez Oltra, B., Krause, R., Multerer, M., & Stadelmann-Steffen, I. (2025). *Ensured Energy: A simulation game to elicit preferences around Swiss energy transition pathways*. arXiv preprint. <https://doi.org/10.48550/arXiv.2508.12799> <br> • Play [Ensured Energy](www.sweet-sure.ch/game), the [*Serious Game*](https://github.com/brueckmann/CEGames) underlying this research. <br>
+
+
+
+::: {.callout-tip collapse="false"}
+#### Upcoming work
+```{=html}
+<p>
+For work-in-progress see my <a href="https://brueckmann.github.io/cv.html">CV</a>, the associated pre-registrations on <a href="https://osf.io/rbnhe/"><i class="ai ai-osf"></i>OSF</a> or head over to the <a href="https://brueckmann.github.io/projects.html">projects page</a>.
+</p>
+```
+:::
 
 ## 📔 Peer-reviewed Journal Publications
 
@@ -45,3 +58,12 @@ Brückmann, G., Wicki, M. & Bernauer, T. (2021). *Is resale anxiety an obstacle 
 Brückmann, G., Willibald, F. & Blanco, V. (2021). *Battery Electric Vehicle adoption in regions without strong policies*. Transportation Research Part D: Transport and Environment, 90, 102615. [doi.org/10.1016/J.TRD.2020.102615](https://doi.org/10.1016/J.TRD.2020.102615) <br>
 
 Brückmann, G. & Bernauer, T. (2020). *What drives public support for policies to enhance electric vehicle adoption?* Environmental Research Letters, 15(9), 094002. [doi.org/10.1088/1748-9326/ab90a5](https://doi.org/10.1088/1748-9326/ab90a5) <br> • Covered in [Yale Environmental Review](https://environment-review.yale.edu/pulling-public-embrace-adoption-electric-vehicles). Explained in [ISTP4Public video](https://twitter.com/istp_eth/status/1271004682979336193?s=20). <br><br>
+
+::: {.callout-tip collapse="false"}
+#### Other types of work:
+```{=html}
+<p>
+For other types of publications, such as my PhD thesis, please refer to my CV.<a href="https://brueckmann.github.io/cv.html">CV</a>.
+</p>
+```
+:::

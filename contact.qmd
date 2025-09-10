@@ -17,14 +17,19 @@ freeze: false
 </p>
 ```
 
- Glad you want to reach out - I look forward to getting to know you! 
+**_Glad you want to reach out - I look forward to getting to know you!_**
  
 
-# ＠ Email 
+## ＠ Email 
 
 ```{=html}
-   <p ><a href="mailto:gracia.brueckmann@unibe.ch"><i class="bi bi-send-plus"></i></i>&nbsp;Email</a> to <a href="mailto:gracia.brueckmann@unibe.ch">gracia.brueckmann@unibe.ch</a>, as email usually is the <strong>best way</strong> to reach me.<br></p>
+   <p ><a href="mailto:gracia.brueckmann@unibe.ch"><i class="bi bi-send-plus"></i></i>&nbsp;Email</a> to <a href="mailto:gracia.brueckmann@unibe.ch">gracia.brueckmann@unibe.ch</a>.<br></p>
 ```
+::: {.callout-tip collapse="false"}
+#### Tip: 
+Via email is usually the <strong>best way</strong> to reach me.
+:::
+
 Alternatively, 📆 [schedule a quick chat](https://cal.com/brueckmann/quick-chat-15) with me, either online (e.g., on  [zoom](https://unibe-ch.zoom.us/my/graciabrueckmann)) or in-person.
 
 
@@ -50,7 +55,7 @@ Tel:  +41 31 684 83 34 <br>
  
  ```
 
-## 🔗 Socials & other Links:
+## 🔗 Socials & Links:
 
  ```{=html}
   <p>
@@ -58,7 +63,7 @@ Tel:  +41 31 684 83 34 <br>
 
   <a href="https://fediscience.org/@brueckmann/"><i class="bi-mastodon"></i></a>&nbsp;Fediverse:&nbsp;<a href="https://fediscience.org/@brueckmann/">https://fediscience.org/@brueckmann/</a><br>
  
- <a href="https://orcid.org/0000-0001-5674-2343"><i class="ai ai-orcid"></i></a>&nbsp;ORCID:&nbsp;<a href="0000-0001-5674-2343">https://fediscience.org/@brueckmann/</a><br>
+ <a href="https://orcid.org/0000-0001-5674-2343"><i class="ai ai-orcid"></i></a>&nbsp;ORCID:&nbsp;<a href="0000-0001-5674-2343">https://orcid.org/0000-0001-5674-2343</a><br>
 
  <a href="https://github.com/brueckmann/"><i class="bi bi-github"></i></a>&nbsp;GitHub:&nbsp;<a href="brueckmann">https://github.com/brueckmann/</a><br>
  

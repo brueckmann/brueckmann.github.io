@@ -3,7 +3,7 @@ title: "Academic Teaching Experience"
 format: html
 ---
 
-## 🧑🏼‍🏫 Current cCourses at University of Bern
+## 🧑🏼‍🏫 Current Courses at the University of Bern
 
 -   **Master Seminar** *Energy and Mobility Policies for Decarbonisation*, University of Bern *(Fall 2022,2023,2024 & 2025)* <br>
     -   Access the most-recent [syllabus online](https://github.com/brueckmann/Syllabus_PolDec_HS2025/blob/main/PDF_Syllabus_PolDec_GBrueckmann.pdf?raw=True)
