@@ -108,20 +108,20 @@ See also the dedicated page: [https://brueckmann.github.io/teaching.html](https:
 :::
 ### 🎩 Own Semester-Long Teaching
 * **Lecture**  _The Art of Causal Inference_, University of Bern _(Spring 2024)_ [Syllabus online](https://brueckmann.github.io/KKI_Syllabus/PDF_Syllabus_KKI_GBrueckmann.pdf) <br>
-* **Master Seminar** _Energy and Mobility Policies for Decarbonisation_, University of Bern _(Fall 2022,2023,2024 & 2025)_ [Syllabus online](https://github.com/brueckmann/Syllabus_PolDec_HS2025/blob/main/PDF_Syllabus_PolDec_GBrueckmann.pdf) <br>
-* **Tutorial** _Mathematical Methods in Economics_, accompanying  lecture by Prof. H. Rainer, Ph.D., LMU Munich _(2012)_ <br>
+* **Master Seminar** _Energy and Mobility Policies for Decarbonisation_, University of Bern _(Fall 2022, 2023, 2024 & 2025)_ [Syllabus online](https://github.com/brueckmann/Syllabus_PolDec_HS2025/blob/main/PDF_Syllabus_PolDec_GBrueckmann.pdf) <br>
+* **Tutorial** _Mathematical Methods in Economics_, accompanying lecture by Prof. H. Rainer, Ph.D., LMU Munich _(2012)_ <br>
 
 ### 👥 Co-teaching, Shorter Teaching & Thesis Supervision
-* **Lectures** _Renewable Energy Acceptance using Causality and Data Science_ Organiser: Prof. Dr. Philipp Schütz, Domain Experience: Data analytics for energy systems and IOT, Lucerne University of Applied Sciences and Arts. _(Spring 2024)_<br> 
-* **Lectures** _Political Economy of Climate Change_, Organiser: Prof. Dr. V. Koubi, University of Bern _(Spring 2023)_<br> 
-* **Lecture** _Climate Change Policy and Electric Vehicles in Europe_, Organiser: Climate Physics seminar, Weber State University, Ogden, Utah. _(Nov 2022)_<br>
-* **Supervision** of _master thesis_ entiteled "Electric charging behaviour – Understanding the trilemma of willingness to pay, the value of time and source of energy in the context of public charging stations in the German part of Switzerland", ETH Zürich _(Nov 2021)_<br>
-* **Lecture** on _Battery-electric Vehicle Adoption_ at Frontiers in Energy Research, Organiser: Energy Science Centre, ETH Zurich _(2021)_<br>
-* **Lecture** on _Sustainable Development_ at “Political Economy”. Organisation jointly with: V. Koubi, D. Kolcava, ETH Zurich _(2021)_<br>
-* **Supervision** of _master thesis_ entiteled “The role of charging infrastructure to the mainstream adoption of battery electric vehicles (BEVs)”, ETH Zurich _(2020)_<br>
-* **Lecture** on _Experimental Political Science_ at Proseminar 2. Organisers: D. Presberger, F. Quoß, ETH Zurich _(2020)_<br>
-* **Tutorial** _Methoden der Empirischen Sozialforschung_ (Empirical social science methods), lecture by Dr. L. Rudolph, ETH Zurich _(2018&2019)_<br>
-* **Seminar** instructor _IDEA League Challenge: The mobility challenge_, Organize: Prof. Dr. T. Bernauer, ETH Zurich _(2018&2019)_<br>
+-   **Lectures** *Renewable Energy Acceptance using Causality and Data Science* Organiser: Prof. Dr. Philipp Schütz, Domain Experience: Data analytics for energy systems and IOT, Lucerne University of Applied Sciences and Arts. *(Spring 2024)*<br>
+-   **Lectures** *Political Economy of Climate Change*, Organiser: Prof. Dr. V. Koubi, University of Bern *(Spring 2023)*<br>
+-   **Lecture** *Climate Change Policy and Electric Vehicles in Europe*, Organiser: Climate Physics seminar, Weber State University, Ogden, Utah. *(Nov 2022)*<br>
+-   **Supervision** of *master thesis* entiteled "Electric charging behaviour – Understanding the trilemma of willingness to pay, the value of time and source of energy in the context of public charging stations in the German part of Switzerland", ETH Zürich *(Nov 2021)*<br>
+-   **Lecture** on *Battery-electric Vehicle Adoption* at Frontiers in Energy Research, Organiser: Energy Science Centre, ETH Zurich *(2021)*<br>
+-   **Lecture** on *Sustainable Development* at “Political Economy”. Organisation jointly with: V. Koubi, D. Kolcava, ETH Zurich *(2021)*<br>
+-   **Supervision** of *master thesis* entiteled “The role of charging infrastructure to the mainstream adoption of battery electric vehicles (BEVs)”, ETH Zurich *(2020)*<br>
+-   **Lecture** on *Experimental Political Science* at Proseminar 2. Organisers: D. Presberger, F. Quoß, ETH Zurich *(2020)*<br>
+-   **Tutorial** *Methoden der Empirischen Sozialforschung* (Empirical social science methods), lecture by Dr. L. Rudolph, ETH Zurich *(2018 & 2019)*<br>
+-   **Seminar** instructor *IDEA League Challenge: The mobility challenge*, Organize: Prof. Dr. T. Bernauer, ETH Zurich *(2018 & 2019)*<br>
 
 
 ## 💸 Grants
