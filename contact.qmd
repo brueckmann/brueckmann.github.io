@@ -18,17 +18,17 @@ freeze: false
 ```
 
 **_Glad you want to reach out - I look forward to getting to know you!_**
- 
+
+:::{.callout-tip collapse="false"}
+#### Tip: 
+Via email is usually the <strong>best way</strong> to reach me.
+:::
 
 ## ＠ Email 
 
 ```{=html}
    <p ><a href="mailto:gracia.brueckmann@unibe.ch"><i class="bi bi-send-plus"></i></i>&nbsp;Email</a> to <a href="mailto:gracia.brueckmann@unibe.ch">gracia.brueckmann@unibe.ch</a>.<br></p>
 ```
-::: {.callout-tip collapse="false"}
-#### Tip: 
-Via email is usually the <strong>best way</strong> to reach me.
-:::
 
 Alternatively, 📆 [schedule a quick chat](https://cal.com/brueckmann/quick-chat-15) with me, either online (e.g., on  [zoom](https://unibe-ch.zoom.us/my/graciabrueckmann)) or in-person.
 
