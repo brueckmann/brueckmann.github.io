@@ -10,7 +10,7 @@ website:
     left: "G. Brückmann, 2025." 
     right: 
       - icon: github
-        href: https://github.com/brueckmann/
+        href: https://github.com/brueckmann/brueckmann.github.io
   back-to-top-navigation: true      
   favicon: <i class="bi bi-lightning-charge-fill"></i>
   navbar:
@@ -21,8 +21,12 @@ website:
         text: "Academic CV"
       - href: publications.qmd
         text: "Publications"
+      - href: projects.qmd
+        text: "Research Projects"
       - href: teaching.qmd
         text: "Teaching"
+      - href: contact.qmd
+        text: "Contact Me"
  
 
 format:

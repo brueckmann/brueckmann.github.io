@@ -1,5 +1,5 @@
 ---
-title: Academic curriculum vitæ
+title: Academic Curriculum Vitæ
 date: last-modified
 published-title: "CV last updated:"
 engine: knitr

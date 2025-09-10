@@ -3,15 +3,15 @@ title: "Academic Teaching Experience"
 format: html
 ---
 
-## 🧑🏼‍🏫 Current courses at UniBern
+## 🧑🏼‍🏫 Current cCourses at University of Bern
 
 -   **Master Seminar** *Energy and Mobility Policies for Decarbonisation*, University of Bern *(Fall 2022,2023,2024 & 2025)* <br>
-    -   Access the [syllabus online](https://github.com/brueckmann/Syllabus_PolDec_HS2025/blob/main/PDF_Syllabus_PolDec_GBrueckmann.pdf?raw=True)
+    -   Access the most-recent [syllabus online](https://github.com/brueckmann/Syllabus_PolDec_HS2025/blob/main/PDF_Syllabus_PolDec_GBrueckmann.pdf?raw=True)
 -   **Lecture** *The Art of Causal Inference*, University of Bern *(Spring 2024)* <br>
-    -   Access the [syllabus online](https://brueckmann.github.io/KKI_Syllabus/PDF_Syllabus_KKI_GBrueckmann.pdf?raw=True)
+    -   Access the most-recent [syllabus online](https://brueckmann.github.io/KKI_Syllabus/PDF_Syllabus_KKI_GBrueckmann.pdf?raw=True)
 
 
-## 📚 Co-teaching, shorter teaching, guest lectures and thesis supervision
+## 📚 Co-teaching, Shorter Teaching, Guest lectures & Thesis Supervision
 
 -   **Lectures** *Renewable Energy Acceptance using Causality and Data Science* Organiser: Prof. Dr. Philipp Schütz, Domain Experience: Data analytics for energy systems and IOT, Lucerne University of Applied Sciences and Arts. *(Spring 2024)*<br>
 -   **Lectures** *Political Economy of Climate Change*, Organiser: Prof. Dr. V. Koubi, University of Bern *(Spring 2023)*<br>

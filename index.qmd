@@ -20,10 +20,10 @@ freeze: false
 ## 🧑🏼‍💻 Current Position 
 
 **Post-Doc | University of Bern** @ [Institute of Political  Science](https://www.ipw.unibe.ch/) & [Oeschger Centre for Climate Change Research](https://www.oeschger.unibe.ch/) <br> _(10/2021 to Present)_ <br>
-Working on the projects [SWEET EDGE](https://www.sweet-edge.ch/en/home/) (Enabling Decentralized renewable GEneration in the Swiss cities, midlands, and the Alps) focussing on solar PV policy acceptance, and [SURE](https://sweet-sure.ch/) (SUstainable and Resilient Energy for Switzerland) with focus on future climate and energy policy, both funded by Swiss Federal Office of Energy, [SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/funding-program-sweet.html/). [Teaching](#own-semester-long-teaching) and organisation of the [Swiss Social Science & Humanities Energy Research Group](https://t1p.de/SSHEnergy). 
+Working on the projects [SWEET EDGE](https://www.sweet-edge.ch/en/home/) (Enabling Decentralized renewable GEneration in the Swiss cities, midlands, and the Alps) focusing on solar PV policy acceptance, and [SURE](https://sweet-sure.ch/) (SUstainable and Resilient Energy for Switzerland) with focus on future climate and energy policy, both funded by Swiss Federal Office of Energy, [SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/funding-program-sweet.html/). [Teaching](#own-semester-long-teaching) and organisation of the [Swiss Social Science & Humanities Energy Research Group](https://t1p.de/SSHEnergy). 
 <br><br>
 
-## 🚗 Previous Academic Positions 
+### 🚗 Previous Academic Positions 
 
 **Visiting Fellow | London School of Economics and Political Science** @ [Social Policy Department](https://www.lse.ac.uk/social-policy/) <br> _(09/2023-12/2023)_ <br>
 Working on urban experiences with environmental policies targeted at transport emissions, such as Low Traffic Neighbourhoods  (LTNs) and Ultra-Low Emission Zones (ULEZ).<br><br>
@@ -33,7 +33,7 @@ _(10/2017-09/2021)_	<br>
 Projects included e.g., [Fostering the Transition Towards More Fuel-Efficient Cars](https://www.aramis.admin.ch/Texte/?ProjectID=41021&Sprache=en-US) funded by Swiss Federal Office of Energy, [SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/research-programmes/energy-economy-society-ees.html/).
 <br><br>
 
-## 🎓 Completed Education
+### 🎓 Completed Education
 
 **Dr. sc. ETH**, Doctoral thesis entitled [_Electric vehicle adoption and acceptance_](https://www.research-collection.ethz.ch/handle/20.500.11850/512355). <br>
 [ETH Zurich](https://ethz.ch/en.html), Switzerland. <br>
@@ -54,6 +54,10 @@ Thesis: _Widowhood, Medical Expenditures, and Health Care Utilization among the 
 <br><br>
 
 ## 📑 Publications
+::: {.callout-tip collapse="true"}
+#### Tip: See more
+See also the dedicated page: [https://brueckmann.github.io/publications.html](https://brueckmann.github.io/publications.html)
+:::
 ### 📔 Peer-reviewed Publications in Academic Journals
 
 Brückmann, G. (2025). _Public opinion on climate policies that reduce emissions abroad to reach domestic targets - a Swiss case study_. Current Research in Environmental Sustainability, 10, 100295. [doi.org/10.1016/j.crsust.2025.100295](https://doi.org/10.1016/j.crsust.2025.100295)<br>
@@ -88,7 +92,7 @@ Brückmann, G. & Stadelmann-Steffen, I. (2025). _To abstain or not to abstain fr
 Simpson, T., Jones, S., Brückmann, G., El-Ajou W., Moreira E., Martinez Oltra, B., Krause, R., Multerer, M., & Stadelmann-Steffen, I. (2025). _Ensured Energy: A simulation game to elicit preferences around Swiss energy transition pathways_. arXiv preprint. [https://doi.org/10.48550/arXiv.2508.12799](https://doi.org/10.48550/arXiv.2508.12799) <br>
 •	Play [Ensured Energy](www.sweet-sure.ch/game), the _[Serious Game](https://github.com/brueckmann/CEGames)_ underlying this research. <br>
 
-## 🧑🏼‍💼 Conference & Academic Seminar Presentations
+### 🧑🏼‍💼 Conference & Academic Seminar Presentations
 * _2025_: SPSA (Swiss Political Science Association Annual Congress), Alp-Pop, MZES-DVPW Conference Methods of Political Science, PolMeth Europe, EPG Survey Workshop, Swiss Social Science and Humanities Energy Workshop <br>
 * _2024_: SPSA, APSA (American Political Science Association) Virtual Research Meeting, Swiss Social Science and Humanities Energy Workshop, EPSA (European Political Science Association Annual Congress), E4EE (Workshop on Experimental Economics for the Environment) <br>
 * _2023_: SPSA , EPCS (European Public Choice Society), EPSA, Swiss Social Science and Humanities Energy Workshop (as organizer and presenter), Dreiländertagung (D-A-CH-Congress) (presenter and panel organizer), LSE Social Policy seminar <br>
@@ -98,13 +102,16 @@ Simpson, T., Jones, S., Brückmann, G., El-Ajou W., Moreira E., Martinez Oltra, 
 * _2019_: IAEE International Conference, EPSA, AIEE Energy Symposium <br>
 
 ## 🧑🏼‍🏫 Teaching Experience
-
-### Own semester-long teaching
+::: {.callout-tip collapse="true"}
+#### Tip: See more
+See also the dedicated page: [https://brueckmann.github.io/teaching.html](https://brueckmann.github.io/teaching.html)
+:::
+### 🎩 Own Semester-Long Teaching
 * **Lecture**  _The Art of Causal Inference_, University of Bern _(Spring 2024)_ [Syllabus online](https://brueckmann.github.io/KKI_Syllabus/PDF_Syllabus_KKI_GBrueckmann.pdf) <br>
 * **Master Seminar** _Energy and Mobility Policies for Decarbonisation_, University of Bern _(Fall 2022,2023,2024 & 2025)_ [Syllabus online](https://github.com/brueckmann/Syllabus_PolDec_HS2025/blob/main/PDF_Syllabus_PolDec_GBrueckmann.pdf) <br>
 * **Tutorial** _Mathematical Methods in Economics_, accompanying  lecture by Prof. H. Rainer, Ph.D., LMU Munich _(2012)_ <br>
 
-### Co-teaching, shorter teaching & thesis supervision
+### 👥 Co-teaching, Shorter Teaching & Thesis Supervision
 * **Lectures** _Renewable Energy Acceptance using Causality and Data Science_ Organiser: Prof. Dr. Philipp Schütz, Domain Experience: Data analytics for energy systems and IOT, Lucerne University of Applied Sciences and Arts. _(Spring 2024)_<br> 
 * **Lectures** _Political Economy of Climate Change_, Organiser: Prof. Dr. V. Koubi, University of Bern _(Spring 2023)_<br> 
 * **Lecture** _Climate Change Policy and Electric Vehicles in Europe_, Organiser: Climate Physics seminar, Weber State University, Ogden, Utah. _(Nov 2022)_<br>
@@ -127,7 +134,7 @@ Simpson, T., Jones, S., Brückmann, G., El-Ajou W., Moreira E., Martinez Oltra, 
 * **Project Grant**	Swiss Office of Energy Swiss Federal Office of Energy, [(SFOE)](https://www.bfe.admin.ch/), project funding for Swiss Social Science & Humanities Energy Research Group, CHF 5,000, 2022<br>
 * **Project Grant** [Promotion Fund](https://www.unibe.ch/research/promotion_of_research/uni_internal_grants/promotion_fund/index_eng.html) (funding for networking activities of intermediate statt members) at University of Bern, project funding for Swiss Social Science and Humanities Energy Research Group Workshops, CHF 5,000, jointly received with Rebeka Sträter and Jonas Schmid<br>
 
-## 🤝 Services to the community
+## 🤝 Services to the Community
 * _Since 2025_:  EPSS (European Political Science Society) [Diversity Committee](https://epssnet.org/about/diversity-committee/).
 * _Since 2024_:  Early Career Researcher (ECR) [Editorial Advisory Board Policy & Politics](https://bristoluniversitypressdigital.com/view/journals/pp/pp-overview.xml?tab_body=editorial-board).
 * _Since 2022_:  Organizer [Swiss Social Science & Humanities Energy Research Group](https://www.ipw.unibe.ch/research/swiss_social_sciences__humanities_energy_research_group/index_eng.html/). <br>
