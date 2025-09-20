@@ -5,14 +5,8 @@ project:
 
 website:
   title: "G. Brückmann"
-  description: "Postdoctoral Researcher"
-  page-footer: 
-    left: "G. Brückmann, 2025." 
-    right: 
-      - icon: github
-        href: https://github.com/brueckmann/brueckmann.github.io
-  back-to-top-navigation: true      
   favicon: test2.svg
+  description: "Postdoctoral Researcher"
   navbar:
     left:
       - href: index.qmd
@@ -27,7 +21,12 @@ website:
         text: "Teaching"
       - href: contact.qmd
         text: "Contact Me"
- 
+  page-footer: 
+    left: "G. Brückmann, 2025." 
+    right: 
+      - icon: github
+        href: https://github.com/brueckmann/brueckmann.github.io
+  back-to-top-navigation: true   
 
 format:
   html:
