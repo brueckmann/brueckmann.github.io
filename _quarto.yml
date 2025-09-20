@@ -12,7 +12,7 @@ website:
       - icon: github
         href: https://github.com/brueckmann/brueckmann.github.io
   back-to-top-navigation: true      
-  favicon: <i class="bi bi-lightning-charge-fill"></i>
+  favicon: test2.svg
   navbar:
     left:
       - href: index.qmd
