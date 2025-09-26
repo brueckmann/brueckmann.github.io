@@ -1,5 +1,7 @@
 \documentclass[12pt,a4paper]{moderncv}
-\moderncvtheme[blue]{classic} 
+\moderncvcolor{grey}                           
+\moderncvstyle[]{classic} 
+
 
 % Packages
 %-----------------------------------------------------------------
@@ -20,7 +22,6 @@
 \input{tex-cv-sections/B2-WIPs.tex}
 \input{tex-cv-sections/C-Presentations.tex}
 \input{tex-cv-sections/D-Teaching_1_own.tex}
-\newpage
 \input{tex-cv-sections/D-Teaching_2_collab.tex}
 \input{tex-cv-sections/D-Teaching_3_supervision.tex}
 \input{tex-cv-sections/E-Grants.tex}
@@ -36,11 +37,18 @@
 
 
 
+
 \emptysection{}\closesection{}
-\vfill 
- \hspace{2.75cm}
- \textcolor{color2}{\today} \hfill %\textcolor{color2}{\small {G. Brückmann}}\hfill
-% \includegraphics[trim={0 0 4.5cm  0},clip, height=2.85\baselineskip]{Signatures.png}
+\vfill % Push content to bottom of page
+\begin{minipage}[b]{0.4\textwidth}
+  \textcolor{color2}{\today}
+\end{minipage}%
+\hfill
+\begin{minipage}[b]{0.4\textwidth}
+     \raggedleft
+  \textcolor{color2}{Dr.\,G.~Brückmann}
+ \end{minipage}
+
 
 \end{document}
 

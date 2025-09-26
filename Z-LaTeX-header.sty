@@ -1,24 +1,52 @@
 \ProvidesPackage{Z-LaTeX-header}
 %Make everything bigger: 
+
+\definecolor{mycolor_blue}{RGB}{41,	72,	149}	
+\definecolor{mycolor_darkgrey}{RGB}{0.55, 0.55, 0.55} %darkgray
+\definecolor{color0}{RGB}{0, 0 , 0} %black  
+\definecolor{color1}{RGB}{41, 72, 149}	%myblue
+
+\colorlet{color0}{black}
+\colorlet{color1}{mycolor_blue}
+
+\colorlet{lastnamecolor}{color0} 
+\colorlet{namecolor}{color0}
+\colorlet{firstnamecolor}{color0}
+
+\colorlet{headrulecolor}{color1}
+
+
+\colorlet{titlecolor}{color2}
+\colorlet{addresscolor}{color2}
+\colorlet{quotecolor}{color1}
+\colorlet{pictureframecolor}{color1}
+%Body
+\colorlet{bodyrulecolor}{color1}
+\colorlet{sectioncolor}{color1}
+\colorlet{subsectioncolor}{color1}
+\colorlet{hintstylecolor}{color0}
+%Letter
+\colorlet{letterclosingcolor}{color2}
+%Skillmatrix
+\colorlet{skillmatrixfullcolor}{color1}
+\colorlet{skillmatrixemptycolor}{color2!30}
+
+
+%%%STYLING %%%%%%
+%Make everything bigger: 
 \usepackage[scale=0.83]{geometry}
 \recomputelengths
-
-       
 
 \usepackage{enumitem}
 \usepackage{ragged2e}
 \usepackage{etaremune}
+\usepackage{amsmath}
 \usepackage{amssymb}
 \DeclareMathAlphabet{\timesbf}{T1}{qtm}{b}{n}
+\newcommand{\textSum}{\(\sum\)}
 
-\definecolor{mycolor_unterschrift}{RGB}{41,	72,	149}	% Blue
-\colorlet{color1}{mycolor_unterschrift}
 
-\definecolor{mycolor_darkgrey}{RGB}{96, 96, 96} % grey
-\colorlet{color2}{mycolor_darkgrey}
 
-\colorlet{lastnamecolor}{black}
-\colorlet{firstnamecolor}{lastnamecolor}            
 
 \firstname{G.}
 \familyname{Brückmann}
@@ -26,12 +54,7 @@
 
 \renewcommand*{\namefont}{\fontsize{36}{38}\bfseries}
 
-
-\newcommand{\textSum}{\(\sum\)}
-
-
-
-
+\renewcommand{\labelitemi}{\small\color{mycolor_blue}{$\circ$}} 
 
 
 % \address{University of Bern 
