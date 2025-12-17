@@ -1,46 +1,27 @@
 ---
 title: Academic Curriculum Vitæ
-date: last-modified
+date: 2025-12-17
 published-title: "CV last updated:"
 engine: knitr
 freeze: false
-cv:
-  pdf: "CV_GBrueckmann.pdf"
+resources: 
+  - https://nbviewer.org/github/brueckmann/brueckmann.github.io/blob/main/CV_GBrueckmann.pdf
 ---
- 
- 
- 
+
+
 ```{=html}
 <p class="text-center">
-  <a class="btn btn-primary btn-lg cv-download" href="https://github.com/brueckmann/brueckmann.github.io/blob/main/docs/CV_GBrueckmann.pdf?raw=True" target="_blank">
-    <i class="bi bi-file-earmark-pdf-fill"></i>&ensp;Download CV
+  <a class="btn btn-primary btn-lg cv-download" href="https://github.com/brueckmann/brueckmann.github.io/blob/main/CV_GBrueckmann.pdf?raw=True" target="_blank">
+    <i class="bi bi-file-earmark-pdf-fill" title="PDF icon" aria-hidden="true"></i>&ensp;Download CV
   </a>
-</p>
-```
-
-```{css echo=FALSE}
-.embed-container {
-    position: relative;
-    padding-bottom: 129%;
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-}
-
-.embed-container iframe,
-.embed-container object,
-.embed-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
 ```
 
 ```{=html}
+<center>
+```
 
-<div class="embed-container">
-  <iframe src="`r rmarkdown::metadata$cv$pdf`" style="border: 0.5px"></iframe>
-</div>
+{{< pdf https://nbviewer.org/github/brueckmann/brueckmann.github.io/blob/main/CV_GBrueckmann.pdf width=100% height=800 border=1 image=downloadicon.png image_width=80% image_border=0 >}}
+
+```{=html}
+</center>
 ```
