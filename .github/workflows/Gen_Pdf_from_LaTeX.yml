@@ -43,6 +43,7 @@ jobs:
           git pull
           mv main.pdf ./docs/CV_GBrueckmann.pdf
           git add ./docs/CV_GBrueckmann.pdf
+          git add ./CV_GBrueckmann.pdf
           git commit -m "generated_updated_pdf_cv"
           git push
         env:
