@@ -11,4 +11,4 @@ resources:
 <!-- {{< pdf https://nbviewer.org/github/brueckmann/brueckmann.github.io/blob/main/CV_GBrueckmann.pdf width=100% height=800 border=1 button="Download PDF" image=downloadicon.png image_width=80% image_border=0 >}} -->
 
 
-{{< pdf https://nbviewer.org/github/brueckmann/brueckmann.github.io/blob/main/CV_GBrueckmann.pdf width=100% height=800 border=1 button="Download PDF" >}}
+{{< pdf https://nbviewer.org/github/brueckmann/brueckmann.github.io/blob/main/CV_GBrueckmann.pdf width=100% height=800 border=1 image=downloadicon.png image_width=80% image_border=0 >}}
