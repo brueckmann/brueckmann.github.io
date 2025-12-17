@@ -8,6 +8,8 @@ cv:
   pdf: "CV_GBrueckmann.pdf"
 ---
  
+ 
+ 
 ```{=html}
 <p class="text-center">
   <a class="btn btn-primary btn-lg cv-download" href="https://github.com/brueckmann/brueckmann.github.io/blob/main/docs/CV_GBrueckmann.pdf?raw=True" target="_blank">
