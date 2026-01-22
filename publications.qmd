@@ -7,16 +7,14 @@ published-title: "Publications last updated:"
 
 ::: {.callout-tip collapse="false"}
 #### Info
- ```{=html}
-  <p class="text-center">
+
+```{=html}
+ <p class="text-center">
 Find my published work also on <a href="https://orcid.org/0000-0001-5674-2343"><i class="ai ai-orcid"></i>ORCID</a> and
- <a href="https://scholar.google.ch/citations?user=CrgXLfIAAAAJ&amp;hl=en/"><i class="ai ai-google-scholar"></i>Google Scholar</a>.
+<a href="https://scholar.google.ch/citations?user=CrgXLfIAAAAJ&amp;hl=en/"><i class="ai ai-google-scholar"></i>Google Scholar</a>.
 </p>
 ```
 :::
-
-
-
 
 ## 📝 Working Papers on Preprint Servers
 
@@ -24,10 +22,9 @@ Brückmann, G. & Stadelmann-Steffen, I. (2025). *To abstain or not to abstain fr
 
 Simpson, T., Jones, S., Brückmann, G., El-Ajou W., Moreira E., Martinez Oltra, B., Krause, R., Multerer, M., & Stadelmann-Steffen, I. (2025). *Ensured Energy: A simulation game to elicit preferences around Swiss energy transition pathways*. arXiv preprint. <https://doi.org/10.48550/arXiv.2508.12799> <br> • Play [Ensured Energy](www.sweet-sure.ch/game), the [*Serious Game*](https://github.com/brueckmann/CEGames) underlying this research. <br>
 
-
-
 ::: {.callout-tip collapse="false"}
 #### Upcoming work
+
 ```{=html}
 <p>
 For work-in-progress see my <a href="https://brueckmann.github.io/cv.html">CV</a>, the associated pre-registrations on <a href="https://osf.io/rbnhe/"><i class="ai ai-osf"></i>OSF</a> or head over to the <a href="https://brueckmann.github.io/projects.html">projects page</a>.
@@ -36,6 +33,8 @@ For work-in-progress see my <a href="https://brueckmann.github.io/cv.html">CV</a
 :::
 
 ## 📔 Peer-reviewed Journal Publications
+
+Brückmann, G., & Stadelmann-Steffen, I. (2026). _Policy goal communication increases support for ambitious renewable energy policies_. PLOS Climate, forthcoming. <br>
 
 Brückmann, G. (2025). *Public opinion on climate policies that reduce emissions abroad to reach domestic targets - a Swiss case study*. Current Research in Environmental Sustainability, 10, 100295. [doi.org/10.1016/j.crsust.2025.100295](https://doi.org/10.1016/j.crsust.2025.100295)<br> • Covered in [SWEET EDGE video](https://youtu.be/_LJ9XbShaVk?feature=shared).<br>
 
@@ -61,6 +60,7 @@ Brückmann, G. & Bernauer, T. (2020). *What drives public support for policies t
 
 ::: {.callout-tip collapse="false"}
 #### Other types of work:
+
 ```{=html}
 <p>
 For other types of publications, such as my PhD thesis, please refer to my CV.<a href="https://brueckmann.github.io/cv.html">CV</a>.
