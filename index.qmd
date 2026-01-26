@@ -28,7 +28,7 @@ Working on the projects [SWEET EDGE](https://www.sweet-edge.ch/en/home/) (Enabli
 **Visiting Fellow | London School of Economics and Political Science** @ [Social Policy Department](https://www.lse.ac.uk/social-policy/) <br> _(09/2023-12/2023)_ <br>
 Working on urban experiences with environmental policies targeted at transport emissions, such as Low Traffic Neighbourhoods  (LTNs) and Ultra-Low Emission Zones (ULEZ).<br><br>
 
-**Researcher & PhD Candidate | ETH Zurich** @ [International Political Economy and Environmental Politics](https://ib.ethz.ch/) & [Institute of Science, Technology and Policy](https://istp.ethz.ch/) [(Swiss Mobility Lab)](https://istp.ethz.ch/research/mobility.html) <br>
+**Researcher & PhD Candidate | ETH Zurich** @ [International Political Economy and Environmental Politics](https://ib.ethz.ch/) & [Institute of Science, Technology and Policy](https://istp.ethz.ch/) [(Swiss Mobility Lab)](https://istp.ethz.ch/research/mobility.html) <br>
 _(10/2017-09/2021)_	<br>
 Projects included e.g., [Fostering the Transition Towards More Fuel-Efficient Cars](https://www.aramis.admin.ch/Texte/?ProjectID=41021&Sprache=en-US) funded by Swiss Federal Office of Energy, [SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/research-programmes/energy-economy-society-ees.html/).
 <br><br>
@@ -89,13 +89,18 @@ Brückmann, G. & Bernauer, T. (2020). _What drives public support for policies t
 
 ### 📝 Working Papers on Preprint Servers
 
+Brückmann, G., El-Ajou W. & Stadelmann-Steffen, I. (2026). *When citizens and
+researchers learn from a serious game - An experiment combining serious gaming
+and survey research.* SocArXiv preprint. [https://doi.org/10.31235/osf.io/x5u6b_v1](https://doi.org/10.31235/osf.io/x5u6b_v1) <br>
+
 Brückmann, G. & Stadelmann-Steffen, I. (2025). _To abstain or not to abstain from binary choice in conjoint experiments_. SocArXiv preprint. [https://www.doi.org/10.31235/osf.io/kr64j_v1](https://www.doi.org/10.31235/osf.io/kr64j_v1) <br>
 
 Simpson, T., Jones, S., Brückmann, G., El-Ajou W., Moreira E., Martinez Oltra, B., Krause, R., Multerer, M., & Stadelmann-Steffen, I. (2025). _Ensured Energy: A simulation game to elicit preferences around Swiss energy transition pathways_. arXiv preprint. [https://doi.org/10.48550/arXiv.2508.12799](https://doi.org/10.48550/arXiv.2508.12799) <br>
 •	Play [Ensured Energy](www.sweet-sure.ch/game), the _[Serious Game](https://github.com/brueckmann/CEGames)_ underlying this research. <br>
 
 ### 🧑🏼‍💼 Conference & Academic Seminar Presentations
-* _2025_: SPSA (Swiss Political Science Association Annual Congress), Alp-Pop, MZES-DVPW Conference Methods of Political Science, PolMeth Europe, EPG Survey Workshop, Swiss Social Science and Humanities Energy Workshop <br>
+* _2026_: SPSA (Swiss Political Science Association Annual Congress) <br>
+* _2025_: SPSA, Alp-Pop, MZES-DVPW Conference Methods of Political Science, PolMeth Europe, EPG Survey Workshop, Swiss Social Science and Humanities Energy Workshop <br>
 * _2024_: SPSA, APSA (American Political Science Association) Virtual Research Meeting, Swiss Social Science and Humanities Energy Workshop, EPSA (European Political Science Association Annual Congress), E4EE (Workshop on Experimental Economics for the Environment) <br>
 * _2023_: SPSA , EPCS (European Public Choice Society), EPSA, Swiss Social Science and Humanities Energy Workshop (as organizer and presenter), Dreiländertagung (D-A-CH-Congress) (presenter and panel organizer), LSE Social Policy seminar <br>
 * _2022_: SPSA, PolMeth Europe, Swiss Social Science and Humanities Energy Workshops (lead organiser), EPSA, EPG Online  <br>
@@ -127,6 +132,7 @@ See also the dedicated page: [https://brueckmann.github.io/teaching.html](https:
 
 
 ## 💸 Grants
+* **In-kind Grant** [University of Mannheim](https://www.mzes.uni-mannheim.de/en/) Visiting Fellowship at the Mannheim Centre for European Social Research (MZES)<br>
 * **In-kind Grant** [University of Bern, Faculty of Business, Economics and Social Sciences, Competitive funding scheme for young researchers with outstanding scientific qualifications](https://www.wiso.unibe.ch/ueber_uns/gleichstellung_und_nachwuchsfoerderung/foerdermassnahmen/kompetitives_foerdergefaess_fuer_nachwuchsforschende_mit_herausragender_wissenschaftlicher_qualifizierung/index_ger.html) funding a research assistant for 8 months in 2025<br>
 * **In-kind Grant** [University of Bern eCoaches digital skills in teaching program](https://www.ecoach.unibe.ch) funding a teaching assistant for Master's seminar in fall semester 2024<br>
 * **Travel Grant** [UniBE Short Travel Grants for (Post)Docs](https://www.unibe.ch/studies/programs/doctorate/doctoral_degree/funding_program_unibe_short_travel_grants_for_postdocs/index_eng.html) funding for research stay at LSE, CHF 7,000, 2023<br>
@@ -156,7 +162,7 @@ See also the dedicated page: [https://brueckmann.github.io/teaching.html](https:
 * [SPSA](https://www.svpw-assp.ch/) (Swiss Political Science Association)
 * [Swiss Social Science & Humanities Energy Research Group](https://t1p.de/SSHEnergy)
 * Relevant Standing Groups: [ECPR](https://ecpr.eu) (European Consortium for Political Research)
-* [Queer UniBe](https://www.unibe.ch/university/portrait/self_image/equal_opportunities/topics/respectful_and_inclusive_study_and_work_environment/lgbtiq/network_queer_unibe/index_eng.html) & [ISNBS](https://isnbs.org/) 
+* [ISNBS](https://isnbs.org/) & [Queer UniBe](https://www.unibe.ch/university/portrait/self_image/equal_opportunities/topics/respectful_and_inclusive_study_and_work_environment/lgbtiq/network_queer_unibe/index_eng.html)
 
 
 ## 🙇🏼 Peer-Review for Scientific Journals 

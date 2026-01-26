@@ -18,6 +18,8 @@ Find my published work also on <a href="https://orcid.org/0000-0001-5674-2343"><
 
 ## 📝 Working Papers on Preprint Servers
 
+Brückmann, G., El-Ajou W. & Stadelmann-Steffen, I. (2026). *When citizens and researchers learn from a serious game - An experiment combining serious gaming and survey research*. SocArXiv preprint. [https://doi.org/10.31235/osf.io/x5u6b_v1](https://doi.org/10.31235/osf.io/x5u6b_v1) <br>
+
 Brückmann, G. & Stadelmann-Steffen, I. (2025). *To abstain or not to abstain from binary choice in conjoint experiments*. SocArXiv preprint. <https://www.doi.org/10.31235/osf.io/kr64j_v1> <br>
 
 Simpson, T., Jones, S., Brückmann, G., El-Ajou W., Moreira E., Martinez Oltra, B., Krause, R., Multerer, M., & Stadelmann-Steffen, I. (2025). *Ensured Energy: A simulation game to elicit preferences around Swiss energy transition pathways*. arXiv preprint. <https://doi.org/10.48550/arXiv.2508.12799> <br> • Play [Ensured Energy](www.sweet-sure.ch/game), the [*Serious Game*](https://github.com/brueckmann/CEGames) underlying this research. <br>
@@ -58,12 +60,8 @@ Brückmann, G., Willibald, F. & Blanco, V. (2021). *Battery Electric Vehicle ado
 
 Brückmann, G. & Bernauer, T. (2020). *What drives public support for policies to enhance electric vehicle adoption?* Environmental Research Letters, 15(9), 094002. [doi.org/10.1088/1748-9326/ab90a5](https://doi.org/10.1088/1748-9326/ab90a5) <br> • Covered in [Yale Environmental Review](https://environment-review.yale.edu/pulling-public-embrace-adoption-electric-vehicles). Explained in [ISTP4Public video](https://twitter.com/istp_eth/status/1271004682979336193?s=20). <br><br>
 
+
 ::: {.callout-tip collapse="false"}
 #### Other types of work:
-
-```{=html}
-<p>
-For other types of publications, such as my PhD thesis, please refer to my CV.<a href="https://brueckmann.github.io/cv.html">CV</a>.
-</p>
-```
+For other types of publications, such as my PhD thesis, please refer to my [CV](https://github.com/brueckmann/brueckmann.github.io/blob/main/docs/CV_GBrueckmann.pdf?raw=True) on the dedicated page: [https://brueckmann.github.io/cv.html](https://brueckmann.github.io/cv.html)
 :::
