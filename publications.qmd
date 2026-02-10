@@ -18,18 +18,20 @@ Find my published work also on <a href="https://orcid.org/0000-0001-5674-2343"><
 
 ## 📝 Working Papers on Preprint Servers
 
+Brückmann, G., Torné A., E. Trutnevyte & Stadelmann-Steffen, I. (2026). *Redistribution is unlikely to overcome distributional concerns about regulatory climate policies in the residential sector*. SocArXiv preprint. [https://doi.org/10.31235/osf.io/bmcjy_v1](https://doi.org/10.31235/osf.io/bmcjy_v1) <br>
+
 Brückmann, G., El-Ajou W. & Stadelmann-Steffen, I. (2026). *When citizens and researchers learn from a serious game - An experiment combining serious gaming and survey research*. SocArXiv preprint. [https://doi.org/10.31235/osf.io/x5u6b_v1](https://doi.org/10.31235/osf.io/x5u6b_v1) <br>
 
-Brückmann, G. & Stadelmann-Steffen, I. (2025). *To abstain or not to abstain from binary choice in conjoint experiments*. SocArXiv preprint. <https://www.doi.org/10.31235/osf.io/kr64j_v1> <br>
+Simpson, T., Jones, S., Brückmann, G., El-Ajou W., Moreira E., Martinez Oltra, B., Krause, R., Multerer, M., & Stadelmann-Steffen, I. (2026). *Ensured Energy: How a Serious Game can Reach and Engage Diverse Societal Groups in Swiss Energy Transition*. arXiv preprint. <https://doi.org/10.48550/arXiv.2508.12799> <br> • Play [Ensured Energy](www.sweet-sure.ch/game), the [*Serious Game*](https://github.com/brueckmann/CEGames) underlying this research. <br>
 
-Simpson, T., Jones, S., Brückmann, G., El-Ajou W., Moreira E., Martinez Oltra, B., Krause, R., Multerer, M., & Stadelmann-Steffen, I. (2025). *Ensured Energy: A simulation game to elicit preferences around Swiss energy transition pathways*. arXiv preprint. <https://doi.org/10.48550/arXiv.2508.12799> <br> • Play [Ensured Energy](www.sweet-sure.ch/game), the [*Serious Game*](https://github.com/brueckmann/CEGames) underlying this research. <br>
+Brückmann, G. & Stadelmann-Steffen, I. (2025). *To abstain or not to abstain from binary choice in conjoint experiments*. SocArXiv preprint. <https://www.doi.org/10.31235/osf.io/kr64j_v1> <br>
 
 ::: {.callout-tip collapse="false"}
 #### Upcoming work
 
 ```{=html}
 <p>
-For work-in-progress see my <a href="https://brueckmann.github.io/cv.html">CV</a>, the associated pre-registrations on <a href="https://osf.io/rbnhe/"><i class="ai ai-osf"></i>OSF</a> or head over to the <a href="https://brueckmann.github.io/projects.html">projects page</a>.
+For work-in-progress see my <a href="https://brueckmann.github.io/cv.html">CV</a>, the associated pre-registrations on my <a href="https://osf.io/rbnhe/"><i class="ai ai-osf"></i>OSF</a> or head over to the <a href="https://brueckmann.github.io/projects.html">projects page</a>.
 </p>
 ```
 :::

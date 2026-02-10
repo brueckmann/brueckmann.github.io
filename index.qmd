@@ -89,17 +89,16 @@ Brückmann, G. & Bernauer, T. (2020). _What drives public support for policies t
 
 ### 📝 Working Papers on Preprint Servers
 
-Brückmann, G., El-Ajou W. & Stadelmann-Steffen, I. (2026). *When citizens and
-researchers learn from a serious game - An experiment combining serious gaming
-and survey research.* SocArXiv preprint. [https://doi.org/10.31235/osf.io/x5u6b_v1](https://doi.org/10.31235/osf.io/x5u6b_v1) <br>
+Brückmann, G., Torné A., E. Trutnevyte & Stadelmann-Steffen, I. (2026). *Redistribution is unlikely to overcome distributional concerns about regulatory climate policies in the residential sector*. SocArXiv preprint. [https://doi.org/10.31235/osf.io/bmcjy_v1](https://doi.org/10.31235/osf.io/bmcjy_v1) <br>
 
-Brückmann, G. & Stadelmann-Steffen, I. (2025). _To abstain or not to abstain from binary choice in conjoint experiments_. SocArXiv preprint. [https://www.doi.org/10.31235/osf.io/kr64j_v1](https://www.doi.org/10.31235/osf.io/kr64j_v1) <br>
+Brückmann, G., El-Ajou W. & Stadelmann-Steffen, I. (2026). *When citizens and researchers learn from a serious game - An experiment combining serious gaming and survey research*. SocArXiv preprint. [https://doi.org/10.31235/osf.io/x5u6b_v1](https://doi.org/10.31235/osf.io/x5u6b_v1) <br>
 
-Simpson, T., Jones, S., Brückmann, G., El-Ajou W., Moreira E., Martinez Oltra, B., Krause, R., Multerer, M., & Stadelmann-Steffen, I. (2025). _Ensured Energy: A simulation game to elicit preferences around Swiss energy transition pathways_. arXiv preprint. [https://doi.org/10.48550/arXiv.2508.12799](https://doi.org/10.48550/arXiv.2508.12799) <br>
-•	Play [Ensured Energy](www.sweet-sure.ch/game), the _[Serious Game](https://github.com/brueckmann/CEGames)_ underlying this research. <br>
+Simpson, T., Jones, S., Brückmann, G., El-Ajou W., Moreira E., Martinez Oltra, B., Krause, R., Multerer, M., & Stadelmann-Steffen, I. (2026). *Ensured Energy: How a Serious Game can Reach and Engage Diverse Societal Groups in Swiss Energy Transition*. arXiv preprint. <https://doi.org/10.48550/arXiv.2508.12799> <br> • Play [Ensured Energy](www.sweet-sure.ch/game), the [*Serious Game*](https://github.com/brueckmann/CEGames) underlying this research. <br>
+
+Brückmann, G. & Stadelmann-Steffen, I. (2025). *To abstain or not to abstain from binary choice in conjoint experiments*. SocArXiv preprint. <https://www.doi.org/10.31235/osf.io/kr64j_v1> <br>
 
 ### 🧑🏼‍💼 Conference & Academic Seminar Presentations
-* _2026_: SPSA (Swiss Political Science Association Annual Congress) <br>
+* _2026_: SPSA (Swiss Political Science Association Annual Congress), Disentis Energy Research Talks <br>
 * _2025_: SPSA, Alp-Pop, MZES-DVPW Conference Methods of Political Science, PolMeth Europe, EPG Survey Workshop, Swiss Social Science and Humanities Energy Workshop <br>
 * _2024_: SPSA, APSA (American Political Science Association) Virtual Research Meeting, Swiss Social Science and Humanities Energy Workshop, EPSA (European Political Science Association Annual Congress), E4EE (Workshop on Experimental Economics for the Environment) <br>
 * _2023_: SPSA , EPCS (European Public Choice Society), EPSA, Swiss Social Science and Humanities Energy Workshop (as organizer and presenter), Dreiländertagung (D-A-CH-Congress) (presenter and panel organizer), LSE Social Policy seminar <br>
