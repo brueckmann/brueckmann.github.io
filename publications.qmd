@@ -38,7 +38,7 @@ For work-in-progress see my <a href="https://brueckmann.github.io/cv.html">CV</a
 
 ## 📔 Peer-reviewed Journal Publications
 
-Brückmann, G., & Stadelmann-Steffen, I. (2026). _Policy goal communication increases support for ambitious renewable energy policies_. PLOS Climate, forthcoming. <br>
+Brückmann, G., & Stadelmann-Steffen, I. (2026). _Policy goal communication increases support for ambitious renewable energy policies_. PLOS Climate,  5 (2), e0000823. [doi.org/10.1371/journal.pclm.0000823](https://doi.org/10.1371/journal.pclm.0000823) <br>
 
 Brückmann, G. (2025). *Public opinion on climate policies that reduce emissions abroad to reach domestic targets - a Swiss case study*. Current Research in Environmental Sustainability, 10, 100295. [doi.org/10.1016/j.crsust.2025.100295](https://doi.org/10.1016/j.crsust.2025.100295)<br> • Covered in [SWEET EDGE video](https://youtu.be/_LJ9XbShaVk?feature=shared).<br>
 
