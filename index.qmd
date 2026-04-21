@@ -23,6 +23,8 @@ freeze: false
 Working on the projects [SWEET EDGE](https://www.sweet-edge.ch/en/home/) (Enabling Decentralized renewable GEneration in the Swiss cities, midlands, and the Alps) focusing on solar PV policy acceptance, and [SURE](https://sweet-sure.ch/) (SUstainable and Resilient Energy for Switzerland) with focus on future climate and energy policy, both funded by Swiss Federal Office of Energy, [SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/funding-program-sweet.html/). [Teaching](#own-semester-long-teaching) and organisation of the [Swiss Social Science & Humanities Energy Research Group](https://t1p.de/SSHEnergy). 
 <br><br>
 
+**Visiting Fellow | University of Mannheim** @ [Mannheim Centre for European Social Research (MZES)](https://www.mzes.uni-mannheim.de/en/) <br> _(04/2026-05/2026)_ <br><br>
+
 ### 🚗 Previous Academic Positions 
 
 **Visiting Fellow | London School of Economics and Political Science** @ [Social Policy Department](https://www.lse.ac.uk/social-policy/) <br> _(09/2023-12/2023)_ <br>
@@ -98,7 +100,7 @@ Simpson, T., Jones, S., Brückmann, G., El-Ajou W., Moreira E., Martinez Oltra, 
 Brückmann, G. & Stadelmann-Steffen, I. (2025). *To abstain or not to abstain from binary choice in conjoint experiments*. SocArXiv preprint. <https://www.doi.org/10.31235/osf.io/kr64j_v1> <br>
 
 ### 🧑🏼‍💼 Conference & Academic Seminar Presentations
-* _2026_: SPSA (Swiss Political Science Association Annual Congress), Disentis Energy Research Talks <br>
+* _2026_: SPSA (Swiss Political Science Association Annual Congress), Disentis Energy Research Talks, DVPW Conference Methods of Political Science, Konstanz In\_equality Conference  <br>
 * _2025_: SPSA, Alp-Pop, MZES-DVPW Conference Methods of Political Science, PolMeth Europe, EPG Survey Workshop, Swiss Social Science and Humanities Energy Workshop <br>
 * _2024_: SPSA, APSA (American Political Science Association) Virtual Research Meeting, Swiss Social Science and Humanities Energy Workshop, EPSA (European Political Science Association Annual Congress), E4EE (Workshop on Experimental Economics for the Environment) <br>
 * _2023_: SPSA , EPCS (European Public Choice Society), EPSA, Swiss Social Science and Humanities Energy Workshop (as organizer and presenter), Dreiländertagung (D-A-CH-Congress) (presenter and panel organizer), LSE Social Policy seminar <br>
@@ -113,8 +115,8 @@ Brückmann, G. & Stadelmann-Steffen, I. (2025). *To abstain or not to abstain fr
 See also the dedicated page: [https://brueckmann.github.io/teaching.html](https://brueckmann.github.io/teaching.html)
 :::
 ### 🎩 Own Semester-Long Teaching
-* **Lecture**  _The Art of Causal Inference_, University of Bern _(Spring 2024)_ [Syllabus online](https://brueckmann.github.io/KKI_Syllabus/PDF_Syllabus_KKI_GBrueckmann.pdf) <br>
-* **Master Seminar** _Energy and Mobility Policies for Decarbonisation_, University of Bern _(Fall 2022, 2023, 2024 & 2025)_ [Syllabus online](https://github.com/brueckmann/Syllabus_PolDec_HS2025/blob/main/PDF_Syllabus_PolDec_GBrueckmann.pdf) <br>
+* **Lecture**  _The Art of Causal Inference_, University of Bern _(Spring 2024, Autumn 2026)_ [Syllabus online](https://brueckmann.github.io/KKI_Syllabus/PDF_Syllabus_KKI_GBrueckmann.pdf) <br>
+* **Master Seminar** _Energy and Mobility Policies for Decarbonisation_, University of Bern _(Autumn 2022, 2023, 2024 & 2025)_ [Syllabus online](https://github.com/brueckmann/Syllabus_PolDec_HS2025/blob/main/PDF_Syllabus_PolDec_GBrueckmann.pdf) <br>
 * **Tutorial** _Mathematical Methods in Economics_, accompanying lecture by Prof. H. Rainer, Ph.D., LMU Munich _(2012)_ <br>
 
 ### 👥 Co-teaching, Shorter Teaching & Thesis Supervision
@@ -133,24 +135,30 @@ See also the dedicated page: [https://brueckmann.github.io/teaching.html](https:
 ## 💸 Grants
 * **In-kind Grant** [University of Mannheim](https://www.mzes.uni-mannheim.de/en/) Visiting Fellowship at the Mannheim Centre for European Social Research (MZES)<br>
 * **In-kind Grant** [University of Bern, Faculty of Business, Economics and Social Sciences, Competitive funding scheme for young researchers with outstanding scientific qualifications](https://www.wiso.unibe.ch/ueber_uns/gleichstellung_und_nachwuchsfoerderung/foerdermassnahmen/kompetitives_foerdergefaess_fuer_nachwuchsforschende_mit_herausragender_wissenschaftlicher_qualifizierung/index_ger.html) funding a research assistant for 8 months in 2025<br>
-* **In-kind Grant** [University of Bern eCoaches digital skills in teaching program](https://www.ecoach.unibe.ch) funding a teaching assistant for Master's seminar in fall semester 2024<br>
+* **In-kind Grant** [University of Bern eCoaches digital skills in teaching program](https://www.ecoach.unibe.ch) funding a teaching assistant for Master's seminar in autumn semester 2024<br>
 * **Travel Grant** [UniBE Short Travel Grants for (Post)Docs](https://www.unibe.ch/studies/programs/doctorate/doctoral_degree/funding_program_unibe_short_travel_grants_for_postdocs/index_eng.html) funding for research stay at LSE, CHF 7,000, 2023<br>
 * **Travel Grant** from Berne University Research Foundation for research stay at LSE, CHF 3,398, 2023<br>
-* **Travel Grant** from Swiss Academy of Social Sciences and Humanities [(SAGW)](https://www.sagw.ch/sagw/) for a conference visit, CHF 500, 2023 <br>
+* **Travel Grant** from Swiss Academy of Social Sciences and Humanities [(SAGW)](https://www.sagw.ch/sagw/) for a conference visit, CHF 500, 2023<br>
 * **Project Grant** Swiss Academy of Social Sciences and Humanities [(SAGW)](https://www.sagw.ch/sagw/), project funding for Swiss Social Science & Humanities Energy Research Group, CHF 7,000, 2022<br>
 * **Project Grant**	Swiss Office of Energy Swiss Federal Office of Energy, [(SFOE)](https://www.bfe.admin.ch/), project funding for Swiss Social Science & Humanities Energy Research Group, CHF 5,000, 2022<br>
-* **Project Grant** [Promotion Fund](https://www.unibe.ch/research/promotion_of_research/uni_internal_grants/promotion_fund/index_eng.html) (funding for networking activities of intermediate statt members) at University of Bern, project funding for Swiss Social Science and Humanities Energy Research Group Workshops, CHF 5,000, jointly received with Rebeka Sträter and Jonas Schmid<br>
+* **Project Grant** [Promotion Fund](https://www.unibe.ch/research/promotion_of_research/uni_internal_grants/promotion_fund/index_eng.html) (funding for networking activities of intermediate staff members) at University of Bern, project funding for Swiss Social Science and Humanities Energy Research Group Workshops, CHF 5,000, jointly received with Rebeka Sträter and Jonas Schmid<br>
+
+::: {.callout-tip collapse="true"}
+#### Tip: See more
+A complete list of all grants received can be found in my [CV](https://github.com/brueckmann/brueckmann.github.io/blob/main/docs/CV_GBrueckmann.pdf?raw=True) on the dedicated page: [https://brueckmann.github.io/cv.html](https://brueckmann.github.io/cv.html)
+:::
 
 ## 🤝 Services to the Community
-* _Since 2025_:  EPSS (European Political Science Society) [Diversity Committee](https://epssnet.org/about/diversity-committee/).
-* _Since 2024_:  Early Career Researcher (ECR) [Editorial Advisory Board Policy & Politics](https://bristoluniversitypressdigital.com/view/journals/pp/pp-overview.xml?tab_body=editorial-board).
-* _Since 2022_:  Organizer [Swiss Social Science & Humanities Energy Research Group](https://www.ipw.unibe.ch/research/swiss_social_sciences__humanities_energy_research_group/index_eng.html/). <br>
+* _Since 2026_:  Guest Editor [PLOS Climate](https://journals.plos.org/climate/).<br>
+* _Since 2025_:  EPSS (European Political Science Society) [Diversity Committee](https://epssnet.org/about/diversity-committee/).<br>
+* _Since 2024_:  Early Career Researcher (ECR) [Editorial Advisory Board Policy & Politics](https://bristoluniversitypressdigital.com/view/journals/pp/pp-overview.xml?tab_body=editorial-board).<br>
+* _Since 2022_:  Organizer [Swiss Social Science & Humanities Energy Research Group](https://www.ipw.unibe.ch/research/swiss_social_sciences__humanities_energy_research_group/index_eng.html/).<br>
 * _Since 2022_:   Member of Commission for the Promotion of Early Career Researchers, University of Bern.<br>
 * _Since 2022_:   Deputy Member Commission for Quality Assurance and Development and Gender Equality Commission, University of Bern.<br>
 * _Since 2022_:   Head and Member of the panel for _The Fund for the Promotion of Young Researchers_, University of Bern.<br>
-* _2019-2022_:	  Founding Member [MeWell Community](https://mewellcommunity.ch), Zurich. <br>
+* _2019-2022_:	  Founding Member [MeWell Community](https://mewellcommunity.ch), Zurich.<br>
 * _2017-2021_:	  Member of Commission for Master in Science, Technology and Policy (MSc ETH STP), ETH Zurich.<br>
-* _2011-2012_:	  Student representative, Senate, LMU Munich. <br>
+* _2011-2012_:	  Student representative, Senate, LMU Munich.<br>
 
 ## 🌐 Memberships in Professional Networks
 * [CSSN](https://cssn.org/scholar/g-bruckmann/) (Climate Social Science Network)
@@ -164,9 +172,9 @@ See also the dedicated page: [https://brueckmann.github.io/teaching.html](https:
 * [ISNBS](https://isnbs.org/) & [Queer UniBe](https://www.unibe.ch/university/portrait/self_image/equal_opportunities/topics/respectful_and_inclusive_study_and_work_environment/lgbtiq/network_queer_unibe/index_eng.html)
 
 
-## 🙇🏼 Peer-Review for Scientific Journals 
-Applied Economics, Climate Policy, Energy Economics, Energy Policy, Energy Research & Social Science, Environmental Research Communications, Environmental Research Letters, Environmental Sciences Europe, European Journal of Political Research, Global Sustainability, Joule, Nature Energy, Patterns, PLOS Climate, Scientific Reports, The Journal of Politics, Transportation, Transportation Research Part D.
-<br>
+## 🙇🏼 Peer-Review for academic journals 
+Applied Economics, Climate Policy, Energy Economics, Energy Policy, Energy Research & Social Science (ERSS), Environmental Politics, Environmental Research Letters (ERL), European Journal of Political Research (EJPR), Joule, Nature Energy, PLOS Climate, Public Opinion Quarterly (POQ), Scientific Reports, The Journal of Politics (JOP), The Review of International Organizations (RoIO), Transportation, Transportation Research Part D: Transport & Environment. <br>
+
 
 ## 💬 Languages
 🇩🇪 **German**: Native <br>

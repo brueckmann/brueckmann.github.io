@@ -26,7 +26,11 @@ published-title: "Projects last updated:"
 - [SWEET SURE](https://sweet-sure.ch/) (SUstainable and Resilient Energy for Switzerland) 
   - 🙏 Funded by the Swiss Federal Office of Energy ([SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/funding-program-sweet.html/))
   - 🔍 My research focus: Future climate and energy policy, efficacy, [serious games](https://github.com/brueckmann/CEGames)
-
+  
+- [SWEET COSI](https://sweet-cosi.ch/) (Co-Evolution and Coordinated Simulation of the Swiss Energy System and
+Swiss Society) 
+  - 🙏 Funded by the Swiss Federal Office of Energy ([SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/funding-program-sweet.html/))
+  - 🔍 My research focus: The role(s) of individuals in energy research across time and space
 
 
 ::: {.callout-tip collapse="true"}
