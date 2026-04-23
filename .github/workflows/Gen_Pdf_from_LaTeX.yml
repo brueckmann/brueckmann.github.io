@@ -25,8 +25,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
-      - name: Compile LaTeX document
-        uses: xu-cheng/latex-action@4
+      - name: GitHub Action for LaTeX to compile TeX to PDF
+        uses: xu-cheng/latex-action@4.1.0
         with:
           root_file: main.tex
           post_compile: latexmk -c
