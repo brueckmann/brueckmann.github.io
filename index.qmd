@@ -20,7 +20,7 @@ freeze: false
 ## 🧑🏼‍💻 Current Position 
 
 **Post-Doc | University of Bern** @ [Institute of Political  Science](https://www.ipw.unibe.ch/) & [Oeschger Centre for Climate Change Research](https://www.oeschger.unibe.ch/) <br> _(10/2021 to Present)_ <br>
-Working on the projects [SWEET EDGE](https://www.sweet-edge.ch/en/home/) (Enabling Decentralized renewable GEneration in the Swiss cities, midlands, and the Alps) focusing on solar PV policy acceptance, and [SURE](https://sweet-sure.ch/) (SUstainable and Resilient Energy for Switzerland) with focus on future climate and energy policy, both funded by Swiss Federal Office of Energy, [SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/funding-program-sweet.html/). [Teaching](#own-semester-long-teaching) and organisation of the [Swiss Social Science & Humanities Energy Research Group](https://t1p.de/SSHEnergy). 
+Working on the projects [SWEET EDGE](https://www.sweet-edge.ch/en/home/) (Enabling Decentralized renewable GEneration in the Swiss cities, midlands, and the Alps) focusing on solar PV policy acceptance, and [SURE](https://sweet-sure.ch/) (SUstainable and Resilient Energy for Switzerland) with a focus on future climate and energy policy, and [SWEET CoSi](https://sweet-cosi.ch/) (Co-Evolution and Coordinated Simulation of the Swiss Energy System and Swiss Society), all funded by Swiss Federal Office of Energy, [SFOE](https://www.bfe.admin.ch/bfe/en/home/research-and-cleantech/funding-program-sweet.html/). [Teaching](#own-semester-long-teaching) and organisation of the [Swiss Social Science & Humanities Energy Research Group](https://t1p.de/SSHEnergy). 
 <br><br>
 
 **Visiting Fellow | University of Mannheim** @ [Mannheim Centre for European Social Research (MZES)](https://www.mzes.uni-mannheim.de/en/) <br> _(04/2026-05/2026)_ <br><br>
@@ -100,7 +100,7 @@ Simpson, T., Jones, S., Brückmann, G., El-Ajou W., Moreira E., Martinez Oltra, 
 Brückmann, G. & Stadelmann-Steffen, I. (2025). *To abstain or not to abstain from binary choice in conjoint experiments*. SocArXiv preprint. <https://www.doi.org/10.31235/osf.io/kr64j_v1> <br>
 
 ### 🧑🏼‍💼 Conference & Academic Seminar Presentations
-* _2026_: SPSA (Swiss Political Science Association Annual Congress), Disentis Energy Research Talks, DVPW Conference Methods of Political Science, Konstanz In\_equality Conference  <br>
+* _2026_: SPSA (Swiss Political Science Association Annual Congress), Disentis Energy Research Talks, DVPW Conference Methods of Political Science, Konstanz In\_equality Conference, NESS (Nordic Environmental Social Science) Conference, Swiss Social Science and Humanities Energy Workshop <br>
 * _2025_: SPSA, Alp-Pop, MZES-DVPW Conference Methods of Political Science, PolMeth Europe, EPG Survey Workshop, Swiss Social Science and Humanities Energy Workshop <br>
 * _2024_: SPSA, APSA (American Political Science Association) Virtual Research Meeting, Swiss Social Science and Humanities Energy Workshop, EPSA (European Political Science Association Annual Congress), E4EE (Workshop on Experimental Economics for the Environment) <br>
 * _2023_: SPSA , EPCS (European Public Choice Society), EPSA, Swiss Social Science and Humanities Energy Workshop (as organizer and presenter), Dreiländertagung (D-A-CH-Congress) (presenter and panel organizer), LSE Social Policy seminar <br>
